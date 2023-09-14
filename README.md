@@ -10,17 +10,22 @@
 <br/>
 
 
-
-+ Genre: Strategic FPS
 <br/>
 
-+ Platform: Windows
-<br/>
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-+ Engine Used: Unreal Engine 5.3
-<br/>
 
-+ Features:
+
+
+
+---
+
+<br/><br/>
+
++ ### Genre: Strategic FPS
+
++ ### Features:
 
   + **Experience multiple characters**:<br/>
     Players can control not only their own character, but also various robots around them. This allows them to overcome previously unsolvable challenges.
@@ -29,10 +34,24 @@
 
   + **Expand your territory**: <br/> Win battles to expand your company's territory. This allows you to earn bigger rewards. Be warned, though: you can lose territory to your enemies.
 
+<br/><br/><br/>
+
+## Member
+- Yoosung Hong
+- Jihoon Jang
+- Hyeondo Kim
+- Dongwoo Kim
+- Hyeonghwan Ju
+
+
+
+
+
+
 #
 
 ![11](https://github.com/Hongyoosung/V/assets/101240036/d622e49f-7712-42ef-a86f-7baa68e121bd)
 
-#
 
-+ [J.H](https://github.com/jihoon-c)
+
+
