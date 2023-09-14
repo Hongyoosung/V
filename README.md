@@ -37,15 +37,19 @@
 <br/><br/><br/>
 
 ## Member
-- Yoosung Hong
-- Jihoon Jang
-- Hyeondo Kim
-- Dongwoo Kim
-- Hyeonghwan Ju
+
+<br/>
 
 
-
-
+  >- *Yoosung Hong*
+  >- *Jihoon Jang*
+  >- *Hyeondo Kim*
+  >- *Dongwoo Kim*
+  >- *Hyeonghwan Ju*
+  >- *Taekyung Yun*
+  >- *Jinho Kim*
+  >- *Taejung Min*
+  >- *MurHong Kim*
 
 
 #
