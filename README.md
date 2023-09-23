@@ -26,7 +26,7 @@
 
 <br/><br/>
 
-+ ### Genre: Strategic FPS
++ ### Genre: Strategic TPS
 
 + ### Features:
 
@@ -55,6 +55,7 @@
   >- *Jinho Kim*
   >- *Taejung Min*
   >- *MurHong Kim*
+  >- *Taesung An*
 
 
 #
