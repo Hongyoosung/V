@@ -41,6 +41,24 @@
 
 <br/><br/><br/>
 
+## Work process
+
+<br/>
+
+```mermaid
+sequenceDiagram
+Planner ->> Developer: Suggestions
+Developer -->> Planner : Review and edit
+Planner -->> Developer: Suggest a fix
+Developer ->> Artist : Task requests
+Artist ->> Developer : Finish the task
+Developer ->> Planner : Reporting results
+
+Note right of Developer: Horizontal structure, with developers authorized to give feedback on proposals to planners.
+
+
+```
+
 ## Member
 
 <br/>
