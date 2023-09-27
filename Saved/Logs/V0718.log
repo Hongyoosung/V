@@ -1314,3 +1314,16 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.27-13.27.41:205][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
 [2023.09.27-13.27.41:218][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
 [2023.09.27-13.27.41:230][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.09.27-13.28.13:579][160]LogContentBrowser: Deferred new asset file creation: NewLevelSequence
+[2023.09.27-13.28.13:590][160]LogContentBrowser: Creating deferred item: NewLevelSequence
+[2023.09.27-13.28.13:608][161]LogContentBrowser: Renaming the item being created (Deferred Item: NewLevelSequence).
+[2023.09.27-13.28.14:995][244]LogContentBrowser: Attempting asset rename: NewLevelSequence -> NewLevelSequence
+[2023.09.27-13.28.14:998][244]LogContentBrowser: End creating deferred item NewLevelSequence
+[2023.09.27-13.28.15:885][300]LogDerivedDataCache: C:/Users/Foryoucom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.173 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3381 files in 4629 folders with total size 232 MiB.
+[2023.09.27-13.28.17:298][389]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-13.28.17:361][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewLevelSequence" FILE="../../../../../../Users/Foryoucom/Documents/GitHub/V/Content/NewLevelSequence.uasset" SILENT=true
+[2023.09.27-13.28.17:364][389]LogSavePackage: Moving output files for package: /Game/NewLevelSequence
+[2023.09.27-13.28.17:364][389]LogSavePackage: Moving '../../../../../../Users/Foryoucom/Documents/GitHub/V/Saved/NewLevelSequence5582A2144D57AFB5A7AD22B58BB7B43F.tmp' to '../../../../../../Users/Foryoucom/Documents/GitHub/V/Content/NewLevelSequence.uasset'
+[2023.09.27-13.28.17:371][389]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 166 ms)
+[2023.09.27-13.28.17:372][389]AssetCheck: New page: 에셋 저장:  NewLevelSequence
+[2023.09.27-13.28.17:372][389]LogContentValidation: Display: /Script/LevelSequence.LevelSequence /Game/NewLevelSequence.NewLevelSequence 유효성 검사 중
