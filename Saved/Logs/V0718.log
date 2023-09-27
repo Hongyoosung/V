@@ -1300,3 +1300,17 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.27-13.27.05:488][331]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms
 [2023.09.27-13.27.05:489][331]AssetCheck: New page: 에셋 저장:  MyActor
 [2023.09.27-13.27.05:492][331]LogContentValidation: Display: /Script/Engine.Blueprint /Game/MyActor.MyActor 유효성 검사 중
+[2023.09.27-13.27.36:366][587]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyActor.MyActor
+[2023.09.27-13.27.36:367][587]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.27-13.27.36:367][587]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.27-13.27.36:480][587]LogViewport: Scene viewport resized to 949x541, mode Windowed.
+[2023.09.27-13.27.37:627][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.09.27-13.27.40:892][637]LogSlate: Window 'Delete Assets' being destroyed
+[2023.09.27-13.27.40:935][637]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.09.27-13.27.40:935][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.27-13.27.40:952][637]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/MyActor.MyActor
+	Asset Type: Blueprint
+[2023.09.27-13.27.41:205][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.09.27-13.27.41:218][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.09.27-13.27.41:230][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
