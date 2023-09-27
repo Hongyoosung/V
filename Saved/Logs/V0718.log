@@ -1327,3 +1327,8 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.27-13.28.17:371][389]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 166 ms)
 [2023.09.27-13.28.17:372][389]AssetCheck: New page: 에셋 저장:  NewLevelSequence
 [2023.09.27-13.28.17:372][389]LogContentValidation: Display: /Script/LevelSequence.LevelSequence /Game/NewLevelSequence.NewLevelSequence 유효성 검사 중
+[2023.09.27-13.28.39:303][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.09.27-13.28.40:087][683]LogSlate: Window 'Delete Assets' being destroyed
+[2023.09.27-13.28.40:110][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.09.27-13.28.40:124][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.09.27-13.28.40:137][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
