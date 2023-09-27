@@ -1496,3 +1496,25 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2023.09.27-11.02.58:972][631]AssetCheck: New page: 에셋 저장:  다수의 에셋
 [2023.09.27-11.02.58:972][631]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Blueprints/BP_AI.BP_AI 유효성 검사 중
 [2023.09.27-11.02.58:972][631]LogContentValidation: Display: /Script/AIModule.BehaviorTree /Game/Enemy/BT_Enemy.BT_Enemy 유효성 검사 중
+[2023.09.27-11.03.55:334][430]Cmd: TRANSACTION UNDO
+[2023.09.27-11.03.55:334][430]LogEditorTransaction: Undo 액터 클릭
+[2023.09.27-11.03.56:463][470]LogEditorTransaction: Undo 클립보드 내용을 붙여넣습니다.
+[2023.09.27-11.03.58:087][553]LogEditorTransaction: Undo 현재 선택된 부분을 삭제합니다.
+[2023.09.27-11.03.59:986][645]BlueprintLog: New page: BP_AI 컴파일
+[2023.09.27-11.04.00:077][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.09.27-11.04.00:989][680]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-11.04.01:179][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_AI" FILE="../../../../../../Users/Foryoucom/Documents/GitHub/V/Content/Blueprints/BP_AI.uasset" SILENT=true
+[2023.09.27-11.04.01:199][680]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_AI
+[2023.09.27-11.04.01:200][680]LogSavePackage: Moving '../../../../../../Users/Foryoucom/Documents/GitHub/V/Saved/BP_AI018491B3460F3A2313EBD2942F68C80A.tmp' to '../../../../../../Users/Foryoucom/Documents/GitHub/V/Content/Blueprints/BP_AI.uasset'
+[2023.09.27-11.04.01:211][680]LogFileHelpers: InternalPromptForCheckoutAndSave took 221 ms (total: 629 ms)
+[2023.09.27-11.04.01:213][680]AssetCheck: New page: 에셋 저장:  BP_AI
+[2023.09.27-11.04.01:213][680]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Blueprints/BP_AI.BP_AI 유효성 검사 중
+[2023.09.27-11.04.03:468][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.09.27-11.04.05:357][797]LogSlate: Window '콘텐츠 저장' being destroyed
+[2023.09.27-11.04.05:366][797]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-11.04.05:405][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BTTask_Attack" FILE="../../../../../../Users/Foryoucom/Documents/GitHub/V/Content/Enemy/BTTask_Attack.uasset" SILENT=true
+[2023.09.27-11.04.05:407][797]LogSavePackage: Moving output files for package: /Game/Enemy/BTTask_Attack
+[2023.09.27-11.04.05:407][797]LogSavePackage: Moving '../../../../../../Users/Foryoucom/Documents/GitHub/V/Saved/BTTask_AttackE9C02C1B4D9F90CD709BA2BE4F09E507.tmp' to '../../../../../../Users/Foryoucom/Documents/GitHub/V/Content/Enemy/BTTask_Attack.uasset'
+[2023.09.27-11.04.05:414][797]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 677 ms)
+[2023.09.27-11.04.05:417][797]AssetCheck: New page: 에셋 저장:  BTTask_Attack
+[2023.09.27-11.04.05:417][797]LogContentValidation: Display: /Script/Engine.Blueprint /Game/Enemy/BTTask_Attack.BTTask_Attack 유효성 검사 중
