@@ -1266,3 +1266,10 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.03-14.26.13:243][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
 [2023.10.03-14.26.13:253][  1]LogD3D12RHI: Cannot end block when stack is empty
 [2023.10.03-14.26.13:395][  2]LogBlueprint: Warning: Blueprint /Game/AssetStore/EndlessWorld/ThirdPersonTemplate/ThirdPersonBP/ThirdPersonOverview is missing GeneratedClass asset tag
+[2023.10.03-14.26.54:171][306]LogTexture: Display: 텍스처 빌드 중: /Game/Minimap/M_Arrow.M_Arrow(TFO_AutoDXT, 400x400 x1x1x1)(예상 필요 메모리: 25.29024MB), 인코딩 속도: Fast
+[2023.10.03-14.26.54:179][306]LogTexture: Display: 텍스처 빌드 중: /Game/Minimap/minimap.minimap(BGRA8, 665x774 x1x1x1)(예상 필요 메모리: 15.115715MB), 인코딩 속도: Fast
+[2023.10.03-14.26.54:194][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.10.03-14.26.55:286][306]LogSlate: Window 'Delete Assets' being destroyed
+[2023.10.03-14.26.55:344][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.10.03-14.26.55:348][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.10.03-14.26.55:352][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
