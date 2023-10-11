@@ -1240,3 +1240,219 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2023.10.11-10.35.41:641][  2]LogSlate: Took 0.000448 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
 [2023.10.11-10.35.41:894][  5]LogD3D12RHI: Creating RT View Heap with 250000 entries
 [2023.10.11-10.35.41:951][  6]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2023.10.11-10.36.19:167][490]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-10.36.20:459][568]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2023.10.11-10.36.20:463][569]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2023.10.11-10.37.01:849][568]LogLinker: Warning: [AssetLog] C:\Users\82105\Documents\GitHub\V\VTest\Content\InfimaGames\LowPolyShooterPack\Usable\Characters\BP_LPSP_Plane_CH_01.uasset: '/Game/InfimaGames/LowPolyShooterPack/Materials/MI_Invisible' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.11-10.37.01:849][568]LogLinker: Warning: [AssetLog] C:\Users\82105\Documents\GitHub\V\VTest\Content\InfimaGames\LowPolyShooterPack\Usable\Characters\BP_LPSP_Plane_CH_01.uasset: VerifyImport: Failed to load package for import object 'Package /Game/InfimaGames/LowPolyShooterPack/Materials/MI_Invisible'
+[2023.10.11-10.37.02:142][568]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-10.37.02:316][568]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-10.37.02:482][568]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-10.37.02:574][568]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-10.37.02:585][568]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-10.37.02:586][568]LogObjectTools: Deleting 6 worlds: /Game/InfimaGames/LowPolyShooterPack/Maps/L_LPSP_Demo_Cinematic_Plane.L_LPSP_Demo_Cinematic_Plane, /Game/InfimaGames/LowPolyShooterPack/Maps/L_LPSP_Demo_Defense.L_LPSP_Demo_Defense, /Game/InfimaGames/LowPolyShooterPack/Maps/L_LPSP_Demo_Desert.L_LPSP_Demo_Desert, /Game/InfimaGames/LowPolyShooterPack/Maps/L_LPSP_Demo_Warzone.L_LPSP_Demo_Warzone, /Game/InfimaGames/LowPolyShooterPack/Maps/L_LPSP_Menu_Main.L_LPSP_Menu_Main, /Game/InfimaGames/LowPolyShooterPack/Maps/L_LPSP_Transition.L_LPSP_Transition
+[2023.10.11-10.37.02:586][568]LogObjectTools: Currently 2 active worlds: /Game/InfimaGames/LowPolyShooterPack/Maps/L_LPSP_Playground.L_LPSP_Playground, /Game/InfimaGames/LowPolyShooterPack/Maps/L_LPSP_Playground_Extras.L_LPSP_Playground_Extras
+[2023.10.11-10.37.02:607][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.10.11-10.37.03:932][568]LogSlate: Window 'Delete Assets' being destroyed
+[2023.10.11-10.37.03:940][568]LogWorld: UWorld::CleanupWorld for L_LPSP_Demo_Cinematic_Plane, bSessionEnded=true, bCleanupResources=true
+[2023.10.11-10.37.03:941][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-10.37.03:944][568]LogWorld: UWorld::CleanupWorld for L_LPSP_Demo_Defense, bSessionEnded=true, bCleanupResources=true
+[2023.10.11-10.37.03:947][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-10.37.03:947][568]LogWorld: UWorld::CleanupWorld for L_LPSP_Demo_Desert, bSessionEnded=true, bCleanupResources=true
+[2023.10.11-10.37.03:952][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-10.37.03:953][568]LogWorld: UWorld::CleanupWorld for L_LPSP_Demo_Warzone, bSessionEnded=true, bCleanupResources=true
+[2023.10.11-10.37.03:955][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-10.37.03:955][568]LogWorld: UWorld::CleanupWorld for L_LPSP_Menu_Main, bSessionEnded=true, bCleanupResources=true
+[2023.10.11-10.37.03:955][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-10.37.03:957][568]LogWorld: UWorld::CleanupWorld for L_LPSP_Transition, bSessionEnded=true, bCleanupResources=true
+[2023.10.11-10.37.03:957][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-10.37.04:037][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.10.11-10.37.04:047][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.10.11-10.37.04:056][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.10.11-10.37.04:122][569]LogAutomationController: Ignoring very large delta of 2.28 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.11-10.37.06:566][767]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2023.10.11-10.37.07:263][838]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.10.11-10.37.07:338][838]LogContentBrowser: Creating deferred item: NewWorld
+[2023.10.11-10.37.07:349][839]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.10.11-10.37.10:053][102]LogContentBrowser: Attempting asset rename: NewWorld -> TestLevel
+[2023.10.11-10.37.10:055][102]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-10.37.10:055][102]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.11-10.37.10:063][102]LogContentBrowser: End creating deferred item NewWorld
+[2023.10.11-10.37.14:174][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.10.11-10.37.15:329][484]LogSlate: Window '콘텐츠 저장' being destroyed
+[2023.10.11-10.37.15:340][484]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-10.37.15:396][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.10.11-10.37.15:414][484]LogPackageLocalizationCache: Processed 43 localized package path(s) for 1 prioritized culture(s) in 0.015214 seconds
+[2023.10.11-10.37.15:416][484]LogSavePackage: Moving output files for package: /Game/InfimaGames/LowPolyShooterPack/Maps/TestLevel
+[2023.10.11-10.37.15:416][484]LogSavePackage: Moving '../../../../../../Users/82105/Documents/GitHub/V/VTest/Saved/TestLevel07945B134412FBF53225CF862FDFB26B.tmp' to '../../../../../../Users/82105/Documents/GitHub/V/VTest/Content/InfimaGames/LowPolyShooterPack/Maps/TestLevel.umap'
+[2023.10.11-10.37.15:418][484]LogFileHelpers: Saving map 'TestLevel' took 0.030
+[2023.10.11-10.37.15:424][484]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms
+[2023.10.11-10.37.15:424][484]LogAssetEditorSubsystem: Opening Asset editor for World /Game/InfimaGames/LowPolyShooterPack/Maps/TestLevel.TestLevel
+[2023.10.11-10.37.15:424][484]Cmd: MAP LOAD FILE="../../../../../../Users/82105/Documents/GitHub/V/VTest/Content/InfimaGames/LowPolyShooterPack/Maps/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.11-10.37.15:424][484]LightingResults: New page: 라이팅 빌드
+[2023.10.11-10.37.15:424][484]LoadErrors: New page: 맵 로드 중: TestLevel.umap
+[2023.10.11-10.37.15:485][484]LogWorld: UWorld::CleanupWorld for L_LPSP_Playground, bSessionEnded=true, bCleanupResources=true
+[2023.10.11-10.37.15:487][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-10.37.15:487][484]LogWorld: UWorld::CleanupWorld for L_LPSP_Playground_Extras, bSessionEnded=true, bCleanupResources=true
+[2023.10.11-10.37.15:487][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-10.37.15:487][484]MapCheck: New page: 맵 체크
+[2023.10.11-10.37.15:487][484]LightingResults: New page: 라이팅 빌드
+[2023.10.11-10.37.15:495][484]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.11-10.37.15:550][484]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2023.10.11-10.37.15:559][484]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.11-10.37.15:559][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-10.37.15:568][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.10.11-10.37.15:578][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.10.11-10.37.15:580][484]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel'.
+[2023.10.11-10.37.15:580][484]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-10.37.15:580][484]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.11-10.37.15:581][484]LogAIModule: Creating AISystem for world TestLevel
+[2023.10.11-10.37.15:597][484]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.11-10.37.15:604][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.10.11-10.37.15:608][484]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.11-10.37.15:608][484]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.147ms.
+[2023.10.11-10.37.15:612][484]AssetCheck: New page: 에셋 저장:  TestLevel
+[2023.10.11-10.37.15:612][484]LogContentValidation: Display: /Script/Engine.World /Game/InfimaGames/LowPolyShooterPack/Maps/TestLevel.TestLevel 유효성 검사 중
+[2023.10.11-10.37.15:620][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.10.11-10.37.22:214][221]LogEditor: Attempting to add actor of class 'SkyLight' to level at 0.00,0.00,0.00
+[2023.10.11-10.37.22:245][221]LogSlate: Took 0.002195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2023.10.11-10.37.30:788][159]LogEditor: Attempting to add actor of class 'DirectionalLight' to level at 0.00,0.00,0.00
+[2023.10.11-10.37.31:879][263]LogEditor: Attempting to add actor of class 'SkyAtmosphere' to level at 0.00,0.00,0.00
+[2023.10.11-10.37.33:057][369]LogEditor: Attempting to add actor of class 'VolumetricCloud' to level at 0.00,0.00,0.00
+[2023.10.11-10.37.33:121][370]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-10.37.33:530][398]LogEditor: Attempting to add actor of class 'ExponentialHeightFog' to level at 0.00,0.00,0.00
+[2023.10.11-10.37.34:502][468]LogSlate: Window '환경 라이트 믹서' being destroyed
+[2023.10.11-10.37.34:509][468]LogSlate: Window '환경 라이트 믹서' being destroyed
+[2023.10.11-10.37.35:894][610]LogViewport: Scene viewport resized to 737x375, mode Windowed.
+[2023.10.11-10.37.49:494][802]LogViewport: Scene viewport resized to 1111x578, mode Windowed.
+[2023.10.11-10.37.51:444][993]LogDerivedDataCache: C:/Users/82105/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:33.361 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 17576 files in 19783 folders with total size 642 MiB.
+[2023.10.11-10.38.08:309][870]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.10.11-10.38.11:912][270]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.10.11-10.38.11:912][270]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.10.11-10.38.11:913][270]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/InfimaGames/LowPolyShooterPack/Maps/TestLevel.TestLevel:PersistentLevel.StaticMeshActor_0
+[2023.10.11-10.38.11:919][270]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/InfimaGames/LowPolyShooterPack/Maps/TestLevel.TestLevel:PersistentLevel.StaticMeshActor_0
+[2023.10.11-10.38.12:102][271]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-10.38.41:703][136]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.10.11-10.38.41:703][136]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.10.11-10.38.41:705][136]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/InfimaGames/LowPolyShooterPack/Maps/TestLevel.TestLevel:PersistentLevel.PlayerStart_0
+[2023.10.11-10.38.41:705][136]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.10.11-10.38.41:705][136]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/InfimaGames/LowPolyShooterPack/Maps/TestLevel.TestLevel:PersistentLevel.PlayerStart_0
+[2023.10.11-10.38.41:705][136]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.10.11-10.38.41:724][136]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.10.11-10.38.43:866][351]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.10.11-10.38.43:871][351]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.11-10.38.43:872][351]PIE: New page: PIE 세션: TestLevel (2023. 10. 12. 오전 4:38:43)
+[2023.10.11-10.38.43:872][351]LogPlayLevel: Display: Creating online subsystem for client :Context_3
+[2023.10.11-10.38.43:874][351]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2023.10.11-10.38.43:884][352]LogPlayLevel: Creating play world package: /Game/InfimaGames/LowPolyShooterPack/Maps/UEDPIE_0_TestLevel
+[2023.10.11-10.38.43:885][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001409s)
+[2023.10.11-10.38.43:885][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfimaGames/LowPolyShooterPack/Maps/TestLevel.TestLevel to /Game/InfimaGames/LowPolyShooterPack/Maps/UEDPIE_0_TestLevel.TestLevel (0.001452s)
+[2023.10.11-10.38.43:900][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.10.11-10.38.43:904][352]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-10.38.43:904][352]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.11-10.38.43:904][352]LogAIModule: Creating AISystem for world TestLevel
+[2023.10.11-10.38.43:904][352]LogPlayLevel: PIE: World Init took: (0.000827s)
+[2023.10.11-10.38.43:905][352]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.10.11-10.38.43:905][352]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.11-10.38.43:905][352]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.11-10.38.43:905][352]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.11-10.38.43:905][352]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.11-10.38.43:905][352]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.11-10.38.43:905][352]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.11-10.38.43:905][352]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.11-10.38.43:905][352]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.11-10.38.43:905][352]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.11-10.38.43:905][352]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.11-10.38.43:905][352]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.11-10.38.43:908][352]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.11-10.38.43:925][352]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Synaptics HD Audio)
+[2023.10.11-10.38.43:925][352]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.11-10.38.43:925][352]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.11-10.38.43:925][352]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.11-10.38.43:927][352]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.10.11-10.38.43:927][352]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.10.11-10.38.43:928][352]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.10.11-10.38.43:929][352]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.10.11-10.38.43:929][352]LogInit: FAudioDevice initialized with ID 2.
+[2023.10.11-10.38.43:929][352]LogAudio: Display: Audio Device (ID: 2) registered with world 'TestLevel'.
+[2023.10.11-10.38.43:929][352]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2023.10.11-10.38.43:931][352]LogLoad: Game class is 'BP_LPSP_GM_C'
+[2023.10.11-10.38.43:932][352]LogWorld: Bringing World /Game/InfimaGames/LowPolyShooterPack/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2023.10.11-19.38.43
+[2023.10.11-10.38.43:932][352]LogWorld: Bringing up level for play took: 0.000459
+[2023.10.11-10.38.43:935][352]PIE: 서버가 로그인했습니다.
+[2023.10.11-10.38.43:937][352]PIE: 에디터에서 플레이 총 시작 시간 0.065초입니다.
+[2023.10.11-10.38.45:038][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.11-10.38.45:038][449]LogWorld: BeginTearingDown for /Game/InfimaGames/LowPolyShooterPack/Maps/UEDPIE_0_TestLevel
+[2023.10.11-10.38.45:038][449]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.11-10.38.45:038][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-10.38.45:040][449]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.11-10.38.45:046][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-10.38.45:051][449]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.11-10.38.45:051][449]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2023.10.11-10.38.45:051][449]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.10.11-10.38.45:053][449]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.10.11-10.38.45:057][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.11-10.38.45:058][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.10.11-10.38.45:126][451]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2023.10.11-10.38.48:244][791]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.10.11-10.38.48:249][791]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.11-10.38.48:249][791]PIE: New page: PIE 세션: TestLevel (2023. 10. 12. 오전 4:38:48)
+[2023.10.11-10.38.48:249][791]LogPlayLevel: Display: Creating online subsystem for client :Context_4
+[2023.10.11-10.38.48:251][791]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2023.10.11-10.38.48:259][792]LogPlayLevel: Creating play world package: /Game/InfimaGames/LowPolyShooterPack/Maps/UEDPIE_0_TestLevel
+[2023.10.11-10.38.48:261][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001452s)
+[2023.10.11-10.38.48:261][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfimaGames/LowPolyShooterPack/Maps/TestLevel.TestLevel to /Game/InfimaGames/LowPolyShooterPack/Maps/UEDPIE_0_TestLevel.TestLevel (0.001492s)
+[2023.10.11-10.38.48:269][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.10.11-10.38.48:272][792]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-10.38.48:272][792]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.11-10.38.48:272][792]LogAIModule: Creating AISystem for world TestLevel
+[2023.10.11-10.38.48:272][792]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2023.10.11-10.38.48:272][792]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.10.11-10.38.48:272][792]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.11-10.38.48:272][792]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.11-10.38.48:272][792]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.11-10.38.48:272][792]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.11-10.38.48:272][792]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.11-10.38.48:272][792]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.11-10.38.48:272][792]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.11-10.38.48:273][792]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.11-10.38.48:273][792]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.11-10.38.48:273][792]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.11-10.38.48:273][792]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.11-10.38.48:275][792]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.11-10.38.48:291][792]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Synaptics HD Audio)
+[2023.10.11-10.38.48:291][792]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.11-10.38.48:292][792]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.11-10.38.48:292][792]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.11-10.38.48:292][792]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.10.11-10.38.48:292][792]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.10.11-10.38.48:294][792]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.10.11-10.38.48:294][792]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.10.11-10.38.48:294][792]LogInit: FAudioDevice initialized with ID 3.
+[2023.10.11-10.38.48:294][792]LogAudio: Display: Audio Device (ID: 3) registered with world 'TestLevel'.
+[2023.10.11-10.38.48:294][792]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2023.10.11-10.38.48:297][792]LogLoad: Game class is 'BP_LPSP_GM_C'
+[2023.10.11-10.38.48:298][792]LogWorld: Bringing World /Game/InfimaGames/LowPolyShooterPack/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2023.10.11-19.38.48
+[2023.10.11-10.38.48:298][792]LogWorld: Bringing up level for play took: 0.000619
+[2023.10.11-10.38.48:300][792]PIE: 서버가 로그인했습니다.
+[2023.10.11-10.38.48:300][792]PIE: 에디터에서 플레이 총 시작 시간 0.051초입니다.
+[2023.10.11-10.38.50:018][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.11-10.38.50:019][979]LogWorld: BeginTearingDown for /Game/InfimaGames/LowPolyShooterPack/Maps/UEDPIE_0_TestLevel
+[2023.10.11-10.38.50:019][979]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.11-10.38.50:019][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-10.38.50:028][979]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.11-10.38.50:041][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-10.38.50:051][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.11-10.38.50:051][979]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2023.10.11-10.38.50:051][979]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.10.11-10.38.50:054][979]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.10.11-10.38.50:060][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.10.11-10.38.50:108][980]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2023.10.11-10.38.53:542][339]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-10.38.53:637][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.10.11-10.38.53:644][339]LogSavePackage: Moving output files for package: /Game/InfimaGames/LowPolyShooterPack/Maps/TestLevel
+[2023.10.11-10.38.53:645][339]LogSavePackage: Moving '../../../../../../Users/82105/Documents/GitHub/V/VTest/Saved/TestLevelCE03EAF34F8472156BC3C6A550174889.tmp' to '../../../../../../Users/82105/Documents/GitHub/V/VTest/Content/InfimaGames/LowPolyShooterPack/Maps/TestLevel.umap'
+[2023.10.11-10.38.53:650][339]LogFileHelpers: Saving map 'TestLevel' took 0.028
+[2023.10.11-10.38.53:661][339]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 203 ms)
+[2023.10.11-10.38.53:663][339]AssetCheck: New page: 에셋 저장:  TestLevel
+[2023.10.11-10.38.53:663][339]LogContentValidation: Display: /Script/Engine.World /Game/InfimaGames/LowPolyShooterPack/Maps/TestLevel.TestLevel 유효성 검사 중
