@@ -2072,3 +2072,409 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.12-12.09.02:129][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.10.12-12.09.02:131][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
 [2023.10.12-12.09.02:173][775]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.10.12-12.13.22:598][930]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.10.12-12.13.22:606][930]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.12-12.13.22:606][930]PIE: New page: PIE 세션: Intro (2023. 10. 13. 오전 6:13:22)
+[2023.10.12-12.13.22:606][930]LogPlayLevel: Creating play world package: /Game/UI/UI/UEDPIE_0_Intro
+[2023.10.12-12.13.22:608][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002336s)
+[2023.10.12-12.13.22:608][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/UI/Intro.Intro to /Game/UI/UI/UEDPIE_0_Intro.Intro (0.002367s)
+[2023.10.12-12.13.22:615][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.10.12-12.13.22:617][930]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.12-12.13.22:617][930]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.12-12.13.22:617][930]LogAIModule: Creating AISystem for world Intro
+[2023.10.12-12.13.22:618][930]LogPlayLevel: PIE: World Init took: (0.000964s)
+[2023.10.12-12.13.22:618][930]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.10.12-12.13.22:618][930]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.12-12.13.22:618][930]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.12-12.13.22:618][930]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.12-12.13.22:618][930]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.12-12.13.22:618][930]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.12-12.13.22:618][930]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.12-12.13.22:618][930]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.12-12.13.22:618][930]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.12-12.13.22:618][930]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.12-12.13.22:618][930]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.12-12.13.22:618][930]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.12-12.13.22:622][930]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.12-12.13.22:639][930]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Synaptics HD Audio)
+[2023.10.12-12.13.22:639][930]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.12-12.13.22:639][930]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.12-12.13.22:639][930]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.12-12.13.22:640][930]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.10.12-12.13.22:640][930]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.10.12-12.13.22:642][930]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.10.12-12.13.22:642][930]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.10.12-12.13.22:642][930]LogInit: FAudioDevice initialized with ID 14.
+[2023.10.12-12.13.22:642][930]LogAudio: Display: Audio Device (ID: 14) registered with world 'Intro'.
+[2023.10.12-12.13.22:642][930]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2023.10.12-12.13.22:644][930]LogLoad: Game class is 'BP_LPSP_GM_C'
+[2023.10.12-12.13.22:645][930]LogWorld: Bringing World /Game/UI/UI/UEDPIE_0_Intro.Intro up for play (max tick rate 0) at 2023.10.12-21.13.22
+[2023.10.12-12.13.22:645][930]LogWorld: Bringing up level for play took: 0.000772
+[2023.10.12-12.13.22:648][930]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.10.12-12.13.22:650][930]PIE: 서버가 로그인했습니다.
+[2023.10.12-12.13.22:651][930]PIE: 에디터에서 플레이 총 시작 시간 0.045초입니다.
+[2023.10.12-12.14.36:464][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.12-12.14.40:125][693]LogNet: Browse: /Game/InfimaGames/LowPolyShooterPack/Maps/TestLevel
+[2023.10.12-12.14.40:125][693]LogLoad: LoadMap: /Game/InfimaGames/LowPolyShooterPack/Maps/TestLevel
+[2023.10.12-12.14.40:125][693]LogWorld: BeginTearingDown for /Game/UI/UI/UEDPIE_0_Intro
+[2023.10.12-12.14.40:125][693]LogWorld: UWorld::CleanupWorld for Intro, bSessionEnded=true, bCleanupResources=true
+[2023.10.12-12.14.40:125][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.12-12.14.40:133][693]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.12-12.14.40:135][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.10.12-12.14.40:142][693]LogAudio: Display: Audio Device (ID: 14) registered with world 'TestLevel'.
+[2023.10.12-12.14.40:142][693]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.12-12.14.40:142][693]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.12-12.14.40:144][693]LogAIModule: Creating AISystem for world TestLevel
+[2023.10.12-12.14.40:144][693]LogPlayLevel: PIE: World Init took: (0.000757s)
+[2023.10.12-12.14.40:144][693]LogLoad: Game class is 'BP_LPSP_GM_Desert_C'
+[2023.10.12-12.14.40:146][693]LogWorld: Bringing World /Game/InfimaGames/LowPolyShooterPack/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2023.10.12-21.14.40
+[2023.10.12-12.14.40:146][693]LogWorld: Bringing up level for play took: 0.002244
+[2023.10.12-12.14.40:172][693]LogLoad: Took 0.047084 seconds to LoadMap(/Game/InfimaGames/LowPolyShooterPack/Maps/TestLevel)
+[2023.10.12-12.14.40:211][693]LogWindows: WindowsPlatformFeatures enabled
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display: ================================================
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display: Total job queries 136, among them cache hits 63 (46.32%)
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display: Tracking 73 distinct input hashes that result in 56 distinct outputs (76.71%)
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display: RAM used: 1.54 MiB of 1.60 GiB budget. Usage: 0.09%
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display: Shaders Compiled: 10
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display: Jobs assigned 10, completed 10 (100%)
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display: Average time worker was idle: 202.56 s
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display: Time job spent in pending queue: average 0.12 s, longest 0.62 s
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display: Job execution time: average 0.71 s, max 1.04 s
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display: Job life time (pending + execution): average 0.83 s, max 1.09
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display: Shader code size: average 31.627 KiB, min 4.539 KiB, max 41.855 KiB
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.68 s
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display: Average processing rate: 3.73 jobs/sec
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display: Total thread time: 3.495 s
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display: Total thread preprocess time: 0.409 s
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display: Percentage time preprocessing: 11.72%
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display: Effective parallelization: 1.30 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.42 sec, max 0.44 sec, min 0.39 sec)
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.40 sec, max 0.42 sec, min 0.37 sec)
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 23.76% of total time (compiled    2 times, average 0.42 sec, max 0.44 sec, min 0.39 sec)
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.65% of total time (compiled    2 times, average 0.40 sec, max 0.42 sec, min 0.37 sec)
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 13.34% of total time (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display:                                                  FHitProxyVS - 13.04% of total time (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display:                                                  FVelocityVS - 10.27% of total time (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2023.10.12-12.14.40:278][694]LogShaderCompilers: Display: ================================================
+[2023.10.12-12.14.42:134][783]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.12-12.14.42:459][789]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.12-12.14.42:645][796]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.12-12.14.43:080][818]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.12-12.14.43:220][824]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.12-12.14.52:836][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.12-12.14.52:836][354]LogWorld: BeginTearingDown for /Game/InfimaGames/LowPolyShooterPack/Maps/UEDPIE_0_TestLevel
+[2023.10.12-12.14.52:837][354]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.12-12.14.52:838][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.12-12.14.52:842][354]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.12-12.14.52:849][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.12-12.14.52:857][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.12-12.14.52:857][354]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2023.10.12-12.14.52:857][354]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.10.12-12.14.52:859][354]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.10.12-12.14.52:867][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.10.12-12.14.52:900][355]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.10.12-12.14.53:627][416]LogEditorViewport: Clicking Background
+[2023.10.12-12.15.00:173][959]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.10.12-12.15.00:181][959]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.12-12.15.00:181][959]PIE: New page: PIE 세션: Intro (2023. 10. 13. 오전 6:15:00)
+[2023.10.12-12.15.00:181][959]LogPlayLevel: Creating play world package: /Game/UI/UI/UEDPIE_0_Intro
+[2023.10.12-12.15.00:185][959]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003380s)
+[2023.10.12-12.15.00:185][959]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/UI/Intro.Intro to /Game/UI/UI/UEDPIE_0_Intro.Intro (0.003421s)
+[2023.10.12-12.15.00:192][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.10.12-12.15.00:193][959]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.12-12.15.00:193][959]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.12-12.15.00:195][959]LogAIModule: Creating AISystem for world Intro
+[2023.10.12-12.15.00:195][959]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2023.10.12-12.15.00:195][959]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.10.12-12.15.00:195][959]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.12-12.15.00:195][959]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.12-12.15.00:195][959]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.12-12.15.00:195][959]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.12-12.15.00:195][959]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.12-12.15.00:195][959]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.12-12.15.00:195][959]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.12-12.15.00:195][959]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.12-12.15.00:196][959]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.12-12.15.00:196][959]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.12-12.15.00:196][959]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.12-12.15.00:198][959]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.12-12.15.00:215][959]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Synaptics HD Audio)
+[2023.10.12-12.15.00:216][959]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.12-12.15.00:216][959]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.12-12.15.00:216][959]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.12-12.15.00:216][959]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.10.12-12.15.00:216][959]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.10.12-12.15.00:218][959]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.10.12-12.15.00:218][959]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.10.12-12.15.00:218][959]LogInit: FAudioDevice initialized with ID 15.
+[2023.10.12-12.15.00:218][959]LogAudio: Display: Audio Device (ID: 15) registered with world 'Intro'.
+[2023.10.12-12.15.00:219][959]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2023.10.12-12.15.00:221][959]LogLoad: Game class is 'BP_LPSP_GM_C'
+[2023.10.12-12.15.00:222][959]LogWorld: Bringing World /Game/UI/UI/UEDPIE_0_Intro.Intro up for play (max tick rate 0) at 2023.10.12-21.15.00
+[2023.10.12-12.15.00:222][959]LogWorld: Bringing up level for play took: 0.000729
+[2023.10.12-12.15.00:224][959]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2023.10.12-12.15.00:225][959]PIE: 서버가 로그인했습니다.
+[2023.10.12-12.15.00:226][959]PIE: 에디터에서 플레이 총 시작 시간 0.045초입니다.
+[2023.10.12-12.15.16:816][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.12-12.15.16:817][421]LogWorld: BeginTearingDown for /Game/UI/UI/UEDPIE_0_Intro
+[2023.10.12-12.15.16:817][421]LogWorld: UWorld::CleanupWorld for Intro, bSessionEnded=true, bCleanupResources=true
+[2023.10.12-12.15.16:817][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.12-12.15.16:829][421]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.12-12.15.16:838][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.12-12.15.16:843][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.12-12.15.16:843][421]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2023.10.12-12.15.16:843][421]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.10.12-12.15.16:845][421]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.10.12-12.15.16:851][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.10.12-12.15.16:881][422]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.10.12-12.15.46:200][874]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.10.12-12.15.46:208][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.12-12.15.46:208][874]PIE: New page: PIE 세션: Intro (2023. 10. 13. 오전 6:15:46)
+[2023.10.12-12.15.46:208][874]LogPlayLevel: Creating play world package: /Game/UI/UI/UEDPIE_0_Intro
+[2023.10.12-12.15.46:210][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002199s)
+[2023.10.12-12.15.46:210][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/UI/Intro.Intro to /Game/UI/UI/UEDPIE_0_Intro.Intro (0.002227s)
+[2023.10.12-12.15.46:217][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.10.12-12.15.46:219][874]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.12-12.15.46:219][874]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.12-12.15.46:220][874]LogAIModule: Creating AISystem for world Intro
+[2023.10.12-12.15.46:220][874]LogPlayLevel: PIE: World Init took: (0.001144s)
+[2023.10.12-12.15.46:220][874]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.10.12-12.15.46:220][874]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.12-12.15.46:220][874]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.12-12.15.46:220][874]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.12-12.15.46:220][874]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.12-12.15.46:220][874]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.12-12.15.46:220][874]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.12-12.15.46:220][874]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.12-12.15.46:220][874]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.12-12.15.46:221][874]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.12-12.15.46:221][874]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.12-12.15.46:221][874]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.12-12.15.46:223][874]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.12-12.15.46:240][874]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Synaptics HD Audio)
+[2023.10.12-12.15.46:240][874]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.12-12.15.46:240][874]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.12-12.15.46:240][874]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.12-12.15.46:240][874]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.10.12-12.15.46:240][874]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.10.12-12.15.46:242][874]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.10.12-12.15.46:242][874]LogInit: FAudioDevice initialized with ID 16.
+[2023.10.12-12.15.46:242][874]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.10.12-12.15.46:242][874]LogAudio: Display: Audio Device (ID: 16) registered with world 'Intro'.
+[2023.10.12-12.15.46:242][874]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2023.10.12-12.15.46:245][874]LogLoad: Game class is 'BP_LPSP_GM_C'
+[2023.10.12-12.15.46:245][874]LogWorld: Bringing World /Game/UI/UI/UEDPIE_0_Intro.Intro up for play (max tick rate 0) at 2023.10.12-21.15.46
+[2023.10.12-12.15.46:245][874]LogWorld: Bringing up level for play took: 0.000735
+[2023.10.12-12.15.46:248][874]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.10.12-12.15.46:249][874]PIE: 서버가 로그인했습니다.
+[2023.10.12-12.15.46:250][874]PIE: 에디터에서 플레이 총 시작 시간 0.042초입니다.
+[2023.10.12-12.15.50:576][233]LogSlate: Took 0.000345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.10.12-12.15.59:216][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.12-12.15.59:216][511]LogWorld: BeginTearingDown for /Game/UI/UI/UEDPIE_0_Intro
+[2023.10.12-12.15.59:216][511]LogWorld: UWorld::CleanupWorld for Intro, bSessionEnded=true, bCleanupResources=true
+[2023.10.12-12.15.59:216][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.12-12.15.59:220][511]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.12-12.15.59:226][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.12-12.15.59:232][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.12-12.15.59:232][511]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2023.10.12-12.15.59:232][511]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.10.12-12.15.59:234][511]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.10.12-12.15.59:239][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.10.12-12.15.59:286][514]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.10.12-12.16.46:537][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.10.12-12.16.46:539][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI/Intro" FILE="../../../../../../Users/82105/Documents/GitHub/V/VTest/Saved/Autosaves/Game/UI/UI/Intro_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.10.12-12.16.46:551][574]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UI/Intro_Auto1
+[2023.10.12-12.16.46:551][574]LogSavePackage: Moving '../../../../../../Users/82105/Documents/GitHub/V/VTest/Saved/Intro_Auto1E8BA4D6A4D18EBA3DB34E894D770A6D1.tmp' to '../../../../../../Users/82105/Documents/GitHub/V/VTest/Saved/Autosaves/Game/UI/UI/Intro_Auto1.umap'
+[2023.10.12-12.16.46:552][574]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/82105/Documents/GitHub/V/VTest/Saved/Autosaves/Game/UI/UI/Intro_Auto1.umap is in the /Temp path, will not scan.
+[2023.10.12-12.16.46:553][574]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UI/UI/Intro' took 0.024
+[2023.10.12-12.16.46:553][574]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.024
+[2023.10.12-12.16.46:553][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/BackGround/bbb-removebg-preview] ([1] browsable assets)...
+[2023.10.12-12.16.46:555][574]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/BackGround/bbb-removebg-preview.bbb-removebg-preview]
+[2023.10.12-12.16.46:555][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/BackGround/bbb-removebg-preview]
+[2023.10.12-12.16.46:558][574]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/BackGround/bbb-removebg-preview_Auto1
+[2023.10.12-12.16.46:558][574]LogSavePackage: Moving '../../../../../../Users/82105/Documents/GitHub/V/VTest/Saved/bbb-removebg-preview_Auto19FF2E59C4ACF4025686D82AE3958D597.tmp' to '../../../../../../Users/82105/Documents/GitHub/V/VTest/Saved/Autosaves/Game/UI/BackGround/bbb-removebg-preview_Auto1.uasset'
+[2023.10.12-12.16.46:558][574]LogFileHelpers: Auto-saving content packages took 0.006
+[2023.10.12-12.29.39:626][957]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2023.10.12-12.29.39:635][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.12-12.29.39:635][957]PIE: New page: PIE 세션: Intro (2023. 10. 13. 오전 6:29:39)
+[2023.10.12-12.29.39:635][957]LogPlayLevel: Creating play world package: /Game/UI/UI/UEDPIE_0_Intro
+[2023.10.12-12.29.39:638][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002714s)
+[2023.10.12-12.29.39:638][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/UI/Intro.Intro to /Game/UI/UI/UEDPIE_0_Intro.Intro (0.002754s)
+[2023.10.12-12.29.39:646][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.10.12-12.29.39:647][957]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.12-12.29.39:647][957]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.12-12.29.39:648][957]LogAIModule: Creating AISystem for world Intro
+[2023.10.12-12.29.39:648][957]LogPlayLevel: PIE: World Init took: (0.001317s)
+[2023.10.12-12.29.39:649][957]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.10.12-12.29.39:649][957]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.12-12.29.39:649][957]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.12-12.29.39:649][957]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.12-12.29.39:649][957]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.12-12.29.39:649][957]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.12-12.29.39:649][957]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.12-12.29.39:649][957]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.12-12.29.39:649][957]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.12-12.29.39:650][957]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.12-12.29.39:650][957]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.12-12.29.39:650][957]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.12-12.29.39:652][957]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.12-12.29.39:671][957]LogAudioMixer: Display: Using Audio Hardware Device 스피커(Synaptics HD Audio)
+[2023.10.12-12.29.39:672][957]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.12-12.29.39:672][957]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.12-12.29.39:672][957]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.12-12.29.39:672][957]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.10.12-12.29.39:672][957]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.10.12-12.29.39:674][957]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.10.12-12.29.39:674][957]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.10.12-12.29.39:674][957]LogInit: FAudioDevice initialized with ID 17.
+[2023.10.12-12.29.39:674][957]LogAudio: Display: Audio Device (ID: 17) registered with world 'Intro'.
+[2023.10.12-12.29.39:674][957]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2023.10.12-12.29.39:677][957]LogLoad: Game class is 'BP_LPSP_GM_C'
+[2023.10.12-12.29.39:678][957]LogWorld: Bringing World /Game/UI/UI/UEDPIE_0_Intro.Intro up for play (max tick rate 0) at 2023.10.12-21.29.39
+[2023.10.12-12.29.39:678][957]LogWorld: Bringing up level for play took: 0.000808
+[2023.10.12-12.29.39:680][957]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.10.12-12.29.39:682][957]PIE: 서버가 로그인했습니다.
+[2023.10.12-12.29.39:683][957]PIE: 에디터에서 플레이 총 시작 시간 0.049초입니다.
+[2023.10.12-12.29.53:615][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.12-12.29.56:837][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.12-12.30.06:503][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.12-12.30.07:711][ 87]LogNet: Browse: /Game/InfimaGames/LowPolyShooterPack/Maps/TestLevel
+[2023.10.12-12.30.07:711][ 87]LogLoad: LoadMap: /Game/InfimaGames/LowPolyShooterPack/Maps/TestLevel
+[2023.10.12-12.30.07:711][ 87]LogWorld: BeginTearingDown for /Game/UI/UI/UEDPIE_0_Intro
+[2023.10.12-12.30.07:712][ 87]LogWorld: UWorld::CleanupWorld for Intro, bSessionEnded=true, bCleanupResources=true
+[2023.10.12-12.30.07:712][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.12-12.30.07:752][ 87]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.12-12.30.07:753][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.10.12-12.30.07:760][ 87]LogAudio: Display: Audio Device (ID: 17) registered with world 'TestLevel'.
+[2023.10.12-12.30.07:760][ 87]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.12-12.30.07:760][ 87]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.12-12.30.07:761][ 87]LogAIModule: Creating AISystem for world TestLevel
+[2023.10.12-12.30.07:761][ 87]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2023.10.12-12.30.07:761][ 87]LogLoad: Game class is 'BP_LPSP_GM_Desert_C'
+[2023.10.12-12.30.07:763][ 87]LogWorld: Bringing World /Game/InfimaGames/LowPolyShooterPack/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2023.10.12-21.30.07
+[2023.10.12-12.30.07:763][ 87]LogWorld: Bringing up level for play took: 0.002288
+[2023.10.12-12.30.07:784][ 87]LogLoad: Took 0.072783 seconds to LoadMap(/Game/InfimaGames/LowPolyShooterPack/Maps/TestLevel)
+[2023.10.12-12.30.25:133][127]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.25:156][129]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.25:314][129]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.25:355][130]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.25:506][130]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.25:517][130]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.25:557][131]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.25:573][131]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.25:608][132]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.25:620][132]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.25:659][133]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.25:679][134]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.25:713][134]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.25:730][135]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.25:763][135]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.25:777][135]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.25:812][136]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.25:820][136]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.12-12.30.25:820][136]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.12-12.30.25:820][136]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.12-12.30.25:842][137]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.25:901][137]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.25:917][137]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.25:954][138]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.25:965][138]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:003][139]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:015][139]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:055][140]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:067][140]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:103][141]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:122][142]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:162][142]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:177][143]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:214][143]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:221][143]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.12-12.30.26:232][144]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:266][144]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:280][145]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:315][145]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:328][145]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:367][146]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:385][147]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:420][147]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:438][147]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:472][148]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:483][148]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:531][149]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:549][150]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:582][150]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:596][150]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.12-12.30.26:597][150]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:635][151]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:646][151]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:683][152]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:726][153]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:764][153]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:772][153]LogShaderCompilers: Display: ================================================
+[2023.10.12-12.30.26:772][153]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.12-12.30.26:772][153]LogShaderCompilers: Display: Total job queries 157, among them cache hits 71 (45.22%)
+[2023.10.12-12.30.26:772][153]LogShaderCompilers: Display: Tracking 86 distinct input hashes that result in 69 distinct outputs (80.23%)
+[2023.10.12-12.30.26:772][153]LogShaderCompilers: Display: RAM used: 1.96 MiB of 1.60 GiB budget. Usage: 0.12%
+[2023.10.12-12.30.26:772][153]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.12-12.30.26:772][153]LogShaderCompilers: Display: Shaders Compiled: 10
+[2023.10.12-12.30.26:772][153]LogShaderCompilers: Display: Jobs assigned 10, completed 10 (100%)
+[2023.10.12-12.30.26:772][153]LogShaderCompilers: Display: Average time worker was idle: 202.56 s
+[2023.10.12-12.30.26:772][153]LogShaderCompilers: Display: Time job spent in pending queue: average 0.12 s, longest 0.62 s
+[2023.10.12-12.30.26:772][153]LogShaderCompilers: Display: Job execution time: average 0.71 s, max 1.04 s
+[2023.10.12-12.30.26:772][153]LogShaderCompilers: Display: Job life time (pending + execution): average 0.83 s, max 1.09
+[2023.10.12-12.30.26:772][153]LogShaderCompilers: Display: Shader code size: average 31.627 KiB, min 4.539 KiB, max 41.855 KiB
+[2023.10.12-12.30.26:772][153]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.68 s
+[2023.10.12-12.30.26:772][153]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.10.12-12.30.26:772][153]LogShaderCompilers: Display: Average processing rate: 3.73 jobs/sec
+[2023.10.12-12.30.26:772][153]LogShaderCompilers: Display: Total thread time: 3.495 s
+[2023.10.12-12.30.26:772][153]LogShaderCompilers: Display: Total thread preprocess time: 0.409 s
+[2023.10.12-12.30.26:772][153]LogShaderCompilers: Display: Percentage time preprocessing: 11.72%
+[2023.10.12-12.30.26:773][153]LogShaderCompilers: Display: Effective parallelization: 1.30 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.10.12-12.30.26:773][153]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.12-12.30.26:773][153]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2023.10.12-12.30.26:773][153]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2023.10.12-12.30.26:773][153]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.42 sec, max 0.44 sec, min 0.39 sec)
+[2023.10.12-12.30.26:773][153]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.40 sec, max 0.42 sec, min 0.37 sec)
+[2023.10.12-12.30.26:773][153]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2023.10.12-12.30.26:773][153]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.12-12.30.26:773][153]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 23.76% of total time (compiled    2 times, average 0.42 sec, max 0.44 sec, min 0.39 sec)
+[2023.10.12-12.30.26:773][153]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.65% of total time (compiled    2 times, average 0.40 sec, max 0.42 sec, min 0.37 sec)
+[2023.10.12-12.30.26:773][153]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 13.34% of total time (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2023.10.12-12.30.26:773][153]LogShaderCompilers: Display:                                                  FHitProxyVS - 13.04% of total time (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2023.10.12-12.30.26:773][153]LogShaderCompilers: Display:                                                  FVelocityVS - 10.27% of total time (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2023.10.12-12.30.26:773][153]LogShaderCompilers: Display: ================================================
+[2023.10.12-12.30.26:781][154]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:817][154]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:835][154]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.26:924][155]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.27:180][155]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.27:219][156]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.27:235][156]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2023.10.12-12.30.27:288][157]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.12-12.30.27:448][164]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.12-12.30.27:448][164]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.12-12.30.27:568][171]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.12-12.30.27:576][171]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.12-12.30.27:967][192]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.12-12.30.28:077][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.12-12.30.28:077][196]LogWorld: BeginTearingDown for /Game/InfimaGames/LowPolyShooterPack/Maps/UEDPIE_0_TestLevel
+[2023.10.12-12.30.28:079][196]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.12-12.30.28:080][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.12-12.30.28:085][196]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.12-12.30.28:091][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.12-12.30.28:099][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.12-12.30.28:099][196]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2023.10.12-12.30.28:100][196]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.10.12-12.30.28:101][196]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.10.12-12.30.28:110][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.10.12-12.30.28:146][197]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.10.12-12.30.28:195][198]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.12-12.30.28:271][206]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
