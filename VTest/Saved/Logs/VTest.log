@@ -1288,3 +1288,876 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2023.10.18-14.45.03:535][ 16]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
 [2023.10.18-14.45.30:324][539]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
 [2023.10.18-14.47.44:176][917]LogDerivedDataCache: C:/Users/82105/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:01.328 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 32134 files in 33674 folders with total size 6069 MiB.
+[2023.10.18-14.51.43:547][919]LogSlate: External Image Picker: DecompressImage failed
+[2023.10.18-14.51.43:744][920]LogShaderCompilers: Display: ================================================
+[2023.10.18-14.51.43:744][920]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.18-14.51.43:744][920]LogShaderCompilers: Display: Total job queries 36, among them cache hits 5 (13.89%)
+[2023.10.18-14.51.43:744][920]LogShaderCompilers: Display: Tracking 31 distinct input hashes that result in 25 distinct outputs (80.65%)
+[2023.10.18-14.51.43:744][920]LogShaderCompilers: Display: RAM used: 681.09 KiB of 1.60 GiB budget. Usage: 0.04%
+[2023.10.18-14.51.43:744][920]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.18-14.51.43:744][920]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.18-14.51.43:744][920]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2023.10.18-14.51.43:744][920]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.18-14.51.43:744][920]LogShaderCompilers: Display: ================================================
+[2023.10.18-14.51.50:250][338]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.18-14.51.50:316][339]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.18-14.51.50:494][344]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.18-14.51.50:646][350]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.18-14.51.50:675][351]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.18-14.51.54:011][565]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfimaGames/LowPolyShooterPack/Core/Characters/BP_LPSP_PC_Default_No_Loadout.BP_LPSP_PC_Default_No_Loadout
+[2023.10.18-14.51.54:011][565]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.18-14.51.54:012][565]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.18-14.51.54:028][565]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2023.10.18-14.51.57:482][713]LogSlate: Window 'BP_LPSP_PC_Default_No_Loadout' being destroyed
+[2023.10.18-14.51.57:494][713]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.10.18-14.51.57:494][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.18-14.51.57:508][713]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfimaGames/LowPolyShooterPack/Core/Characters/BP_LPSP_PC_Default_No_Loadout.BP_LPSP_PC_Default_No_Loadout
+[2023.10.18-14.51.57:508][713]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.18-14.51.57:508][713]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.18-14.51.58:855][713]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.10.18-14.51.58:856][713]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.10.18-14.52.08:465][175]LogLinker: Warning: '/Game/Developers/octav/Collections/Recoil/Pushback' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:465][175]LogLinker: Warning: '/Game/Developers/octav/Collections/Recoil/Pushback' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:465][175]LogUObjectGlobals: Warning: 'Object /Game/Developers/octav/Collections/Recoil/Pushback.Pushback' 오브젝트를 찾는 데 실패했습니다.
+[2023.10.18-14.52.08:465][175]LogLinker: Warning: '/Game/Developers/octav/Collections/Recoil/Pushback_Rotation' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:465][175]LogLinker: Warning: '/Game/Developers/octav/Collections/Recoil/Pushback_Rotation' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:465][175]LogUObjectGlobals: Warning: 'Object /Game/Developers/octav/Collections/Recoil/Pushback_Rotation.Pushback_Rotation' 오브젝트를 찾는 데 실패했습니다.
+[2023.10.18-14.52.08:507][177]LogLinker: Warning: '/Game/LowPolyShooterPack/Data/Testing/Abilities/Character/DT_LPSP_CH_Blenspaces' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:507][177]LogLinker: Warning: '/Game/LowPolyShooterPack/Data/Testing/Abilities/Character/DT_LPSP_CH_Blenspaces' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:507][177]LogUObjectGlobals: Warning: 'Object /Game/LowPolyShooterPack/Data/Testing/Abilities/Character/DT_LPSP_CH_Blenspaces.DT_LPSP_CH_Blenspaces' 오브젝트를 찾는 데 실패했습니다.
+[2023.10.18-14.52.08:508][177]LogLinker: Warning: '/Game/LowPolyShooterPack/Audio/Cues/SC_WEP_Flashlight_Click' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:509][177]LogLinker: Warning: '/Game/LowPolyShooterPack/Audio/Cues/SC_WEP_Flashlight_Click' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:509][177]LogUObjectGlobals: Warning: 'Object /Game/LowPolyShooterPack/Audio/Cues/SC_WEP_Flashlight_Click.SC_WEP_Flashlight_Click' 오브젝트를 찾는 데 실패했습니다.
+[2023.10.18-14.52.08:550][179]LogLinker: Warning: '/Game/LowPolyShooterPack/Art/Weapons/_Common/Attachments/Materials/MI_ATT_Scope_Unlit' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:550][179]LogLinker: Warning: '/Game/LowPolyShooterPack/Art/Weapons/_Common/Attachments/Materials/MI_ATT_Scope_Unlit' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:550][179]LogUObjectGlobals: Warning: 'Object /Game/LowPolyShooterPack/Art/Weapons/_Common/Attachments/Materials/MI_ATT_Scope_Unlit.MI_ATT_Scope_Unlit' 오브젝트를 찾는 데 실패했습니다.
+[2023.10.18-14.52.08:574][180]LogLinker: Warning: '/Game/LowPolyShooterPack/Art/Effects/Materials/MI_Flashlight_Light_Function' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:574][180]LogLinker: Warning: '/Game/LowPolyShooterPack/Art/Effects/Materials/MI_Flashlight_Light_Function' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:574][180]LogUObjectGlobals: Warning: 'Object /Game/LowPolyShooterPack/Art/Effects/Materials/MI_Flashlight_Light_Function.MI_Flashlight_Light_Function' 오브젝트를 찾는 데 실패했습니다.
+[2023.10.18-14.52.08:574][180]LogLinker: Warning: '/Game/LowPolyShooterPack/Art/Effects/Materials/MI_Laser_Beam' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:574][180]LogLinker: Warning: '/Game/LowPolyShooterPack/Art/Effects/Materials/MI_Laser_Beam' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:574][180]LogUObjectGlobals: Warning: 'Object /Game/LowPolyShooterPack/Art/Effects/Materials/MI_Laser_Beam.MI_Laser_Beam' 오브젝트를 찾는 데 실패했습니다.
+[2023.10.18-14.52.08:575][180]LogLinker: Warning: '/Game/LowPolyShooterPack/Art/Effects/Materials/MI_Laser_Dot' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:575][180]LogLinker: Warning: '/Game/LowPolyShooterPack/Art/Effects/Materials/MI_Laser_Dot' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:575][180]LogUObjectGlobals: Warning: 'Object /Game/LowPolyShooterPack/Art/Effects/Materials/MI_Laser_Dot.MI_Laser_Dot' 오브젝트를 찾는 데 실패했습니다.
+[2023.10.18-14.52.08:641][183]LogLinker: Warning: '/Game/LowPolyShooterPack/Art/Effects/ParticleSystems/PS_Muzzle_Flash' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:642][183]LogLinker: Warning: '/Game/LowPolyShooterPack/Art/Effects/ParticleSystems/PS_Muzzle_Flash' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:642][183]LogUObjectGlobals: Warning: 'Object /Game/LowPolyShooterPack/Art/Effects/ParticleSystems/PS_Muzzle_Flash.PS_Muzzle_Flash' 오브젝트를 찾는 데 실패했습니다.
+[2023.10.18-14.52.08:642][183]LogLinker: Warning: '/Game/LowPolyShooterPack/Audio/Cues/SC_WEP_Fire_01' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:642][183]LogLinker: Warning: '/Game/LowPolyShooterPack/Audio/Cues/SC_WEP_Fire_01' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:642][183]LogUObjectGlobals: Warning: 'Object /Game/LowPolyShooterPack/Audio/Cues/SC_WEP_Fire_01.SC_WEP_Fire_01' 오브젝트를 찾는 데 실패했습니다.
+[2023.10.18-14.52.08:642][183]LogLinker: Warning: '/Game/LowPolyShooterPack/Art/Effects/ParticleSystems/PS_Muzzle_Smoke' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:643][183]LogLinker: Warning: '/Game/LowPolyShooterPack/Art/Effects/ParticleSystems/PS_Muzzle_Smoke' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:643][183]LogUObjectGlobals: Warning: 'Object /Game/LowPolyShooterPack/Art/Effects/ParticleSystems/PS_Muzzle_Smoke.PS_Muzzle_Smoke' 오브젝트를 찾는 데 실패했습니다.
+[2023.10.18-14.52.08:662][184]LogLinker: Warning: '/Game/LowPolyShooterPack/Data/Testing/Abilities/Character/DT_LPSP_CH_AR_01_Poses' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:662][184]LogLinker: Warning: '/Game/LowPolyShooterPack/Data/Testing/Abilities/Character/DT_LPSP_CH_AR_01_Poses' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:662][184]LogUObjectGlobals: Warning: 'Object /Game/LowPolyShooterPack/Data/Testing/Abilities/Character/DT_LPSP_CH_AR_01_Poses.DT_LPSP_CH_AR_01_Poses' 오브젝트를 찾는 데 실패했습니다.
+[2023.10.18-14.52.08:662][184]LogLinker: Warning: '/Game/LowPolyShooterPack/Data/Testing/Abilities/Character/DT_LPSP_CH_AR_01_Montages' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:662][184]LogLinker: Warning: '/Game/LowPolyShooterPack/Data/Testing/Abilities/Character/DT_LPSP_CH_AR_01_Montages' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:662][184]LogUObjectGlobals: Warning: 'Object /Game/LowPolyShooterPack/Data/Testing/Abilities/Character/DT_LPSP_CH_AR_01_Montages.DT_LPSP_CH_AR_01_Montages' 오브젝트를 찾는 데 실패했습니다.
+[2023.10.18-14.52.08:662][184]LogLinker: Warning: '/Game/LowPolyShooterPack/Data/Testing/Abilities/Weapon/DT_LPSP_WEP_AR_01_Montages' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:663][184]LogLinker: Warning: '/Game/LowPolyShooterPack/Data/Testing/Abilities/Weapon/DT_LPSP_WEP_AR_01_Montages' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:663][184]LogUObjectGlobals: Warning: 'Object /Game/LowPolyShooterPack/Data/Testing/Abilities/Weapon/DT_LPSP_WEP_AR_01_Montages.DT_LPSP_WEP_AR_01_Montages' 오브젝트를 찾는 데 실패했습니다.
+[2023.10.18-14.52.08:663][184]LogLinker: Warning: '/Game/LowPolyShooterPack/Data/Testing/Settings/DT_LPSP_WEP_Settings_Scopes' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:664][184]LogLinker: Warning: '/Game/LowPolyShooterPack/Data/Testing/Settings/DT_LPSP_WEP_Settings_Scopes' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:664][184]LogUObjectGlobals: Warning: 'Object /Game/LowPolyShooterPack/Data/Testing/Settings/DT_LPSP_WEP_Settings_Scopes.DT_LPSP_WEP_Settings_Scopes' 오브젝트를 찾는 데 실패했습니다.
+[2023.10.18-14.52.08:664][184]LogLinker: Warning: '/Game/LowPolyShooterPack/Data/Testing/Settings/DT_LPSP_WEP_Settings_Lasers' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:664][184]LogLinker: Warning: '/Game/LowPolyShooterPack/Data/Testing/Settings/DT_LPSP_WEP_Settings_Lasers' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:664][184]LogUObjectGlobals: Warning: 'Object /Game/LowPolyShooterPack/Data/Testing/Settings/DT_LPSP_WEP_Settings_Lasers.DT_LPSP_WEP_Settings_Lasers' 오브젝트를 찾는 데 실패했습니다.
+[2023.10.18-14.52.08:664][184]LogLinker: Warning: '/Game/LowPolyShooterPack/Data/Testing/Settings/DT_LPSP_WEP_AR_01_Settings_Muzzles' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:664][184]LogLinker: Warning: '/Game/LowPolyShooterPack/Data/Testing/Settings/DT_LPSP_WEP_AR_01_Settings_Muzzles' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:664][184]LogUObjectGlobals: Warning: 'Object /Game/LowPolyShooterPack/Data/Testing/Settings/DT_LPSP_WEP_AR_01_Settings_Muzzles.DT_LPSP_WEP_AR_01_Settings_Muzzles' 오브젝트를 찾는 데 실패했습니다.
+[2023.10.18-14.52.08:665][184]LogLinker: Warning: '/Game/LowPolyShooterPack/Data/Testing/Settings/DT_LPSP_WEP_Settings_Grips' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:665][184]LogLinker: Warning: '/Game/LowPolyShooterPack/Data/Testing/Settings/DT_LPSP_WEP_Settings_Grips' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:665][184]LogUObjectGlobals: Warning: 'Object /Game/LowPolyShooterPack/Data/Testing/Settings/DT_LPSP_WEP_Settings_Grips.DT_LPSP_WEP_Settings_Grips' 오브젝트를 찾는 데 실패했습니다.
+[2023.10.18-14.52.08:666][184]LogLinker: Warning: '/Game/LowPolyShooterPack/Core/Widgets/Crosshairs/WBP_LPSP_Crosshair_Classic' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:666][184]LogLinker: Warning: '/Game/LowPolyShooterPack/Core/Widgets/Crosshairs/WBP_LPSP_Crosshair_Classic' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:666][184]LogUObjectGlobals: Warning: 'Object /Game/LowPolyShooterPack/Core/Widgets/Crosshairs/WBP_LPSP_Crosshair_Classic.WBP_LPSP_Crosshair_Classic_C' 오브젝트를 찾는 데 실패했습니다.
+[2023.10.18-14.52.08:667][184]LogLinker: Warning: '/Game/LowPolyShooterPack/Data/Testing/Icons/DT_LPSP_WEP_AR_01_Icons' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:667][184]LogLinker: Warning: '/Game/LowPolyShooterPack/Data/Testing/Icons/DT_LPSP_WEP_AR_01_Icons' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:667][184]LogUObjectGlobals: Warning: 'Object /Game/LowPolyShooterPack/Data/Testing/Icons/DT_LPSP_WEP_AR_01_Icons.DT_LPSP_WEP_AR_01_Icons' 오브젝트를 찾는 데 실패했습니다.
+[2023.10.18-14.52.08:667][184]LogLinker: Warning: '/Game/LowPolyShooterPack/Data/Testing/Sounds/DT_LPSP_WEP_AR_01_Sounds' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:668][184]LogLinker: Warning: '/Game/LowPolyShooterPack/Data/Testing/Sounds/DT_LPSP_WEP_AR_01_Sounds' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:668][184]LogUObjectGlobals: Warning: 'Object /Game/LowPolyShooterPack/Data/Testing/Sounds/DT_LPSP_WEP_AR_01_Sounds.DT_LPSP_WEP_AR_01_Sounds' 오브젝트를 찾는 데 실패했습니다.
+[2023.10.18-14.52.08:669][184]LogLinker: Warning: '/Game/LowPolyShooterPack/Art/Weapons/ARs/SM_AR_01_Magazine_Default' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:669][184]LogLinker: Warning: '/Game/LowPolyShooterPack/Art/Weapons/ARs/SM_AR_01_Magazine_Default' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:669][184]LogUObjectGlobals: Warning: 'Object /Game/LowPolyShooterPack/Art/Weapons/ARs/SM_AR_01_Magazine_Default.SM_AR_01_Magazine_Default' 오브젝트를 찾는 데 실패했습니다.
+[2023.10.18-14.52.08:669][184]LogLinker: Warning: '/Game/LowPolyShooterPack/Usable/Casings/BP_LPSP_CASING_Small' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:669][184]LogLinker: Warning: '/Game/LowPolyShooterPack/Usable/Casings/BP_LPSP_CASING_Small' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:669][184]LogUObjectGlobals: Warning: 'Object /Game/LowPolyShooterPack/Usable/Casings/BP_LPSP_CASING_Small.BP_LPSP_CASING_Small_C' 오브젝트를 찾는 데 실패했습니다.
+[2023.10.18-14.52.08:669][184]LogLinker: Warning: '/Game/LowPolyShooterPack/Usable/Projectiles/BP_LPSP_PROJ_Bullet' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:670][184]LogLinker: Warning: '/Game/LowPolyShooterPack/Usable/Projectiles/BP_LPSP_PROJ_Bullet' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:670][184]LogUObjectGlobals: Warning: 'Object /Game/LowPolyShooterPack/Usable/Projectiles/BP_LPSP_PROJ_Bullet.BP_LPSP_PROJ_Bullet_C' 오브젝트를 찾는 데 실패했습니다.
+[2023.10.18-14.52.08:670][184]LogLinker: Warning: '/Game/LowPolyShooterPack/Materials/MI_Invisible' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:670][184]LogLinker: Warning: '/Game/LowPolyShooterPack/Materials/MI_Invisible' 로드 실패: 파일을 찾을 수 없습니다.
+[2023.10.18-14.52.08:670][184]LogUObjectGlobals: Warning: 'Object /Game/LowPolyShooterPack/Materials/MI_Invisible.MI_Invisible' 오브젝트를 찾는 데 실패했습니다.
+[2023.10.18-14.52.40:278][701]LogSlate: Window '프로젝트 세팅' being destroyed
+[2023.10.18-14.52.40:289][701]LogSlate: Window '프로젝트 세팅' being destroyed
+[2023.10.18-14.52.43:568][871]LogSlate: External Image Picker: DecompressImage failed
+[2023.10.18-14.52.53:725][390]LogSlate: Window '프로젝트 세팅' being destroyed
+[2023.10.18-14.52.53:736][390]LogSlate: Window '프로젝트 세팅' being destroyed
+[2023.10.18-14.53.10:935][476]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-14.53.10:935][476]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-14.53.11:406][496]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-14.53.11:508][503]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-14.53.20:816][980]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-14.53.20:816][980]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-14.54.15:207][155]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-14.54.15:316][161]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-14.54.26:152][813]LogSlate: External Image Picker: DecompressImage failed
+[2023.10.18-14.55.11:190][452]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-14.55.11:190][452]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-14.55.13:195][458]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-14.55.15:536][466]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-14.55.53:406][592]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-14.55.53:503][598]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-14.56.23:796][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.10.18-14.56.23:798][700]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfimaGames/LowPolyShooterPack/Maps/TestLevel' took 0.022
+[2023.10.18-14.56.23:799][700]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfimaGames/LowPolyShooterPack/Core/Characters/BP_LPSP_PC_Default_No_Loadout] ([2] browsable assets)...
+[2023.10.18-14.56.23:799][700]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfimaGames/LowPolyShooterPack/Core/Characters/BP_LPSP_PC_Default_No_Loadout]
+[2023.10.18-14.56.23:816][700]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.016941 seconds
+[2023.10.18-14.56.23:819][700]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InfimaGames/LowPolyShooterPack/Core/Characters/BP_LPSP_PC_Default_No_Loadout_Auto1
+[2023.10.18-14.56.23:819][700]LogSavePackage: Moving '../../../../../../Users/82105/Documents/GitHub/V/VTest/Saved/BP_LPSP_PC_Default_No_Loadout_Au001560E0417E3A155FCF5E9A46DE1819.tmp' to '../../../../../../Users/82105/Documents/GitHub/V/VTest/Saved/Autosaves/Game/InfimaGames/LowPolyShooterPack/Core/Characters/BP_LPSP_PC_Default_No_Loadout_Auto1.uasset'
+[2023.10.18-14.56.23:821][700]LogFileHelpers: Auto-saving content packages took 0.023
+[2023.10.18-14.56.51:397][694]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-14.56.51:397][694]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-14.56.53:402][700]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-14.56.55:736][707]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-14.56.58:070][714]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-14.57.47:380][876]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-14.57.47:506][882]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-14.58.21:170][983]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-14.58.21:171][983]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-14.58.21:316][990]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-14.58.21:715][ 11]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-14.59.19:166][931]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-14.59.19:167][931]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-14.59.21:181][938]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-14.59.23:509][944]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-14.59.29:383][973]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-14.59.29:383][973]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-14.59.29:507][980]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-14.59.29:612][986]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-14.59.51:037][338]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-14.59.51:038][338]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-14.59.53:054][345]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-14.59.55:379][351]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.01.15:879][604]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.01.15:879][604]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-15.01.15:969][611]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-15.01.16:052][617]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.01.31:332][472]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-15.01.31:333][472]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.01.33:348][479]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-15.01.35:674][485]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.01.48:161][535]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-15.01.48:161][535]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.01.48:261][542]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-15.01.48:353][548]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.02.00:879][158]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-15.02.00:879][158]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.02.02:897][165]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-15.02.05:223][171]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.03.41:400][466]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-15.03.41:400][466]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.03.41:501][473]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-15.03.41:706][479]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.04.13:795][ 33]LogSlate: Took 0.000362 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.10.18-15.04.27:178][  3]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfimaGames/LowPolyShooterPack/Core/Characters/BPI_LPSP_PCH.BPI_LPSP_PCH
+[2023.10.18-15.04.27:179][  3]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.18-15.04.27:179][  3]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.18-15.05.51:555][378]LogViewport: Scene viewport resized to 351x182, mode Windowed.
+[2023.10.18-15.05.51:630][381]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2023.10.18-15.05.51:633][381]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2023.10.18-15.06.01:966][865]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.18-15.06.01:978][865]LogShaderCompilers: Display: ================================================
+[2023.10.18-15.06.01:978][865]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.18-15.06.01:978][865]LogShaderCompilers: Display: Total job queries 79, among them cache hits 14 (17.72%)
+[2023.10.18-15.06.01:978][865]LogShaderCompilers: Display: Tracking 65 distinct input hashes that result in 50 distinct outputs (76.92%)
+[2023.10.18-15.06.01:978][865]LogShaderCompilers: Display: RAM used: 1.45 MiB of 1.60 GiB budget. Usage: 0.09%
+[2023.10.18-15.06.01:978][865]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.18-15.06.01:978][865]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.18-15.06.01:978][865]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2023.10.18-15.06.01:978][865]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.18-15.06.01:978][865]LogShaderCompilers: Display: ================================================
+[2023.10.18-15.06.02:316][875]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.06.36:219][737]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-15.06.36:219][737]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.06.36:219][737]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.06.38:235][743]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.06.40:564][750]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-15.06.42:908][757]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.06.56:686][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.10.18-15.06.56:689][798]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfimaGames/LowPolyShooterPack/Maps/TestLevel' took 0.020
+[2023.10.18-15.06.56:689][798]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfimaGames/LowPolyShooterPack/Core/Characters/BP_LPSP_PC_Default_No_Loadout] ([2] browsable assets)...
+[2023.10.18-15.06.56:689][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfimaGames/LowPolyShooterPack/Core/Characters/BP_LPSP_PC_Default_No_Loadout]
+[2023.10.18-15.06.56:693][798]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InfimaGames/LowPolyShooterPack/Core/Characters/BP_LPSP_PC_Default_No_Loadout_Auto2
+[2023.10.18-15.06.56:693][798]LogSavePackage: Moving '../../../../../../Users/82105/Documents/GitHub/V/VTest/Saved/BP_LPSP_PC_Default_No_Loadout_Au52A64D074CBE0D8554BFEBA6D068A633.tmp' to '../../../../../../Users/82105/Documents/GitHub/V/VTest/Saved/Autosaves/Game/InfimaGames/LowPolyShooterPack/Core/Characters/BP_LPSP_PC_Default_No_Loadout_Auto2.uasset'
+[2023.10.18-15.06.56:694][798]LogFileHelpers: Auto-saving content packages took 0.005
+[2023.10.18-15.07.03:846][828]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.07.03:846][828]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-15.07.03:846][828]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.07.04:019][834]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.07.04:176][842]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-15.07.04:309][848]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.07.54:402][656]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.07.54:402][656]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-15.07.54:402][656]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.07.56:412][662]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.07.58:758][670]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-15.08.01:078][676]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.09.00:891][866]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.09.00:891][866]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.09.00:891][866]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-15.09.00:975][872]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.09.01:121][880]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-15.09.01:327][886]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.11.21:290][763]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.11.21:290][763]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-15.11.21:290][763]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.11.23:301][769]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.11.25:638][777]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-15.11.27:969][783]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.12.55:576][ 57]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.12.55:576][ 57]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-15.12.55:576][ 57]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.12.55:709][ 63]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.12.55:886][ 71]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-15.12.56:061][ 77]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.13.00:359][148]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.13.00:359][148]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-15.13.00:359][148]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.13.01:720][154]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.13.01:891][162]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-15.13.02:012][168]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.13.02:117][176]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-15.13.02:119][176]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.13.02:209][182]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.13.02:218][183]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-15.13.14:929][603]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-15.13.14:930][603]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.13.14:930][603]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.13.16:938][609]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.13.19:279][617]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-15.13.40:172][687]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.13.40:173][687]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-15.13.40:315][693]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.13.40:488][701]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.10.18-15.13.40:649][707]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.10.18-15.13.41:630][750]BlueprintLog: New page: BP_LPSP_PC_Default_No_Loadout 컴파일
+[2023.10.18-15.13.41:665][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.10.18-15.13.42:330][781]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.18-15.13.42:456][781]LogSavePackage: Moving output files for package: /Game/InfimaGames/LowPolyShooterPack/Core/Characters/BP_LPSP_PC_Default_No_Loadout
+[2023.10.18-15.13.42:457][781]LogSavePackage: Moving '../../../../../../Users/82105/Documents/GitHub/V/VTest/Saved/BP_LPSP_PC_Default_No_LoadoutC0C23D8E4B782A196A79CF8288146136.tmp' to '../../../../../../Users/82105/Documents/GitHub/V/VTest/Content/InfimaGames/LowPolyShooterPack/Core/Characters/BP_LPSP_PC_Default_No_Loadout.uasset'
+[2023.10.18-15.13.42:471][781]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms
+[2023.10.18-15.13.42:473][781]AssetCheck: New page: 에셋 저장:  BP_LPSP_PC_Default_No_Loadout
+[2023.10.18-15.13.42:473][781]LogContentValidation: Display: /Script/Engine.Blueprint /Game/InfimaGames/LowPolyShooterPack/Core/Characters/BP_LPSP_PC_Default_No_Loadout.BP_LPSP_PC_Default_No_Loadout 유효성 검사 중
+[2023.10.18-15.13.43:769][844]LogSlate: Window 'BPI_LPSP_PCH' being destroyed
+[2023.10.18-15.13.43:777][844]LogSlate: Window 'BPI_LPSP_PCH' being destroyed
+[2023.10.18-15.13.43:782][844]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.10.18-15.13.43:782][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.18-15.13.43:811][844]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.10.18-15.13.43:811][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.18-15.13.43:905][848]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2023.10.18-15.13.43:910][848]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2023.10.18-15.13.46:553][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.10.18-15.13.46:557][  5]LogStall: Shutdown...
+[2023.10.18-15.13.46:562][  5]LogStall: Shutdown complete.
+[2023.10.18-15.13.46:601][  5]LogSlate: Window '프로젝트 세팅' being destroyed
+[2023.10.18-15.13.46:661][  5]LogSlate: Window 'VTest - 언리얼 에디터' being destroyed
+[2023.10.18-15.13.46:769][  6]Cmd: QUIT_EDITOR
+[2023.10.18-15.13.46:769][  6]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.10.18-15.13.46:771][  6]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.10.18-15.13.46:771][  6]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.10.18-15.13.46:771][  6]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.10.18-15.13.46:773][  6]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.18-15.13.46:773][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.18-15.13.46:778][  6]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.10.18-15.13.46:894][  6]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.10.18-15.13.46:894][  6]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.10.18-15.13.46:894][  6]LogAudio: Display: Audio Device unregistered from world 'TestLevel'.
+[2023.10.18-15.13.46:894][  6]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2023.10.18-15.13.46:894][  6]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.10.18-15.13.46:896][  6]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.10.18-15.13.46:901][  6]LogAudio: Display: Audio Device Manager Shutdown
+[2023.10.18-15.13.46:902][  6]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2023.10.18-15.13.46:907][  6]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.10.18-15.13.46:907][  6]LogExit: Preparing to exit.
+[2023.10.18-15.13.46:932][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.10.18-15.13.46:938][  6]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.18-15.13.46:938][  6]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.18-15.13.46:938][  6]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.18-15.13.46:938][  6]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.18-15.13.46:938][  6]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.18-15.13.46:938][  6]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.18-15.13.46:938][  6]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.18-15.13.46:938][  6]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.18-15.13.46:938][  6]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.18-15.13.46:938][  6]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.18-15.13.46:938][  6]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.18-15.13.46:938][  6]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.18-15.13.46:938][  6]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.18-15.13.46:938][  6]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.18-15.13.46:938][  6]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.18-15.13.46:938][  6]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.18-15.13.46:938][  6]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.18-15.13.46:938][  6]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.18-15.13.46:938][  6]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.18-15.13.46:938][  6]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.18-15.13.48:057][  6]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.10.18-15.13.48:061][  6]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.10.18-15.13.48:065][  6]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.10.18-15.13.48:067][  6]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.10.18-15.13.48:070][  6]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.10.18-15.13.48:072][  6]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.10.18-15.13.48:076][  6]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.10.18-15.13.48:242][  6]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.10.18-15.13.48:253][  6]LogExit: Editor shut down
+[2023.10.18-15.13.48:255][  6]LogExit: Transaction tracking system shut down
+[2023.10.18-15.13.48:521][  6]LogExit: Object subsystem successfully closed.
+[2023.10.18-15.13.48:528][  6]LogShaderCompilers: Display: ================================================
+[2023.10.18-15.13.48:528][  6]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.18-15.13.48:528][  6]LogShaderCompilers: Display: Total job queries 79, among them cache hits 14 (17.72%)
+[2023.10.18-15.13.48:528][  6]LogShaderCompilers: Display: Tracking 65 distinct input hashes that result in 50 distinct outputs (76.92%)
+[2023.10.18-15.13.48:529][  6]LogShaderCompilers: Display: RAM used: 1.45 MiB of 1.60 GiB budget. Usage: 0.09%
+[2023.10.18-15.13.48:529][  6]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.18-15.13.48:529][  6]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.18-15.13.48:529][  6]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2023.10.18-15.13.48:529][  6]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.18-15.13.48:529][  6]LogShaderCompilers: Display: ================================================
+[2023.10.18-15.13.48:548][  6]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.10.18-15.13.48:563][  6]LogVirtualization: UE::Virtualization was shutdown
+[2023.10.18-15.13.48:646][  6]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (1052)
+[2023.10.18-15.13.48:646][  6]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1050)
+[2023.10.18-15.13.48:646][  6]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1048)
+[2023.10.18-15.13.48:646][  6]LogModuleManager: Shutting down and abandoning module AddContentDialog (1046)
+[2023.10.18-15.13.48:647][  6]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1045)
+[2023.10.18-15.13.48:647][  6]LogModuleManager: Shutting down and abandoning module SceneOutliner (1042)
+[2023.10.18-15.13.48:647][  6]LogModuleManager: Shutting down and abandoning module StatusBar (1040)
+[2023.10.18-15.13.48:647][  6]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1038)
+[2023.10.18-15.13.48:647][  6]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1036)
+[2023.10.18-15.13.48:647][  6]LogModuleManager: Shutting down and abandoning module StatsViewer (1034)
+[2023.10.18-15.13.48:647][  6]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1032)
+[2023.10.18-15.13.48:647][  6]LogModuleManager: Shutting down and abandoning module AutomationWorker (1030)
+[2023.10.18-15.13.48:647][  6]LogModuleManager: Shutting down and abandoning module SmartSnapping (1028)
+[2023.10.18-15.13.48:647][  6]LogModuleManager: Shutting down and abandoning module WaveTableEditor (1026)
+[2023.10.18-15.13.48:647][  6]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (1024)
+[2023.10.18-15.13.48:647][  6]LogModuleManager: Shutting down and abandoning module RigVMEditor (1022)
+[2023.10.18-15.13.48:647][  6]LogModuleManager: Shutting down and abandoning module GooglePADEditor (1020)
+[2023.10.18-15.13.48:647][  6]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (1018)
+[2023.10.18-15.13.48:647][  6]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (1016)
+[2023.10.18-15.13.48:647][  6]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (1014)
+[2023.10.18-15.13.48:647][  6]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (1012)
+[2023.10.18-15.13.48:647][  6]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (1010)
+[2023.10.18-15.13.48:647][  6]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (1008)
+[2023.10.18-15.13.48:647][  6]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (1006)
+[2023.10.18-15.13.48:647][  6]LogModuleManager: Shutting down and abandoning module WebMMedia (1004)
+[2023.10.18-15.13.48:647][  6]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (1002)
+[2023.10.18-15.13.48:647][  6]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (1000)
+[2023.10.18-15.13.48:647][  6]LogModuleManager: Shutting down and abandoning module SequenceRecorder (999)
+[2023.10.18-15.13.48:647][  6]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (996)
+[2023.10.18-15.13.48:647][  6]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (994)
+[2023.10.18-15.13.48:647][  6]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (992)
+[2023.10.18-15.13.48:647][  6]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (990)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (988)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (986)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (984)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module TextureAlignMode (982)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module BspMode (980)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module GeometryMode (978)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (976)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module IKRigEditor (974)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module ControlRigEditor (972)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (970)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (968)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (966)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module PlanarCut (964)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module FractureEngine (962)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module CharacterAI (960)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module SessionServices (958)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module MeshPaint (956)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (954)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module PlacementMode (953)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module FoliageEdit (950)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module LandscapeEditor (948)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (946)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module ActorPickerMode (944)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module ViewportSnapping (942)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module EditorWidgets (940)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module ViewportInteraction (938)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module ClothPainter (936)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (935)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module WidgetRegistration (932)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module LogVisualizer (930)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (928)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (926)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (925)
+[2023.10.18-15.13.48:648][  6]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (923)
+[2023.10.18-15.13.48:741][  6]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (920)
+[2023.10.18-15.13.48:741][  6]LogModuleManager: Shutting down and abandoning module MacPlatformEditor (918)
+[2023.10.18-15.13.48:741][  6]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (916)
+[2023.10.18-15.13.48:741][  6]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (914)
+[2023.10.18-15.13.48:741][  6]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (912)
+[2023.10.18-15.13.48:741][  6]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (910)
+[2023.10.18-15.13.48:741][  6]LogModuleManager: Shutting down and abandoning module AnimationSettings (908)
+[2023.10.18-15.13.48:741][  6]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (906)
+[2023.10.18-15.13.48:741][  6]LogModuleManager: Shutting down and abandoning module CSVtoSVG (904)
+[2023.10.18-15.13.48:741][  6]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (902)
+[2023.10.18-15.13.48:741][  6]LogModuleManager: Shutting down and abandoning module EditorConfig (900)
+[2023.10.18-15.13.48:741][  6]LogModuleManager: Shutting down and abandoning module EditorFramework (898)
+[2023.10.18-15.13.48:741][  6]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (896)
+[2023.10.18-15.13.48:741][  6]LogModuleManager: Shutting down and abandoning module TraceInsights (894)
+[2023.10.18-15.13.48:741][  6]MemoryProfiler: Shutdown
+[2023.10.18-15.13.48:741][  6]NetworkingProfiler: Shutdown
+[2023.10.18-15.13.48:741][  6]LoadingProfiler: Shutdown
+[2023.10.18-15.13.48:741][  6]TimingProfiler: Shutdown
+[2023.10.18-15.13.48:741][  6]LogModuleManager: Shutting down and abandoning module TraceServices (893)
+[2023.10.18-15.13.48:742][  6]LogModuleManager: Shutting down and abandoning module TraceAnalysis (892)
+[2023.10.18-15.13.48:742][  6]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (888)
+[2023.10.18-15.13.48:742][  6]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (887)
+[2023.10.18-15.13.48:742][  6]LogModuleManager: Shutting down and abandoning module InputBindingEditor (884)
+[2023.10.18-15.13.48:742][  6]LogModuleManager: Shutting down and abandoning module MergeActors (882)
+[2023.10.18-15.13.48:742][  6]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (880)
+[2023.10.18-15.13.48:742][  6]LogModuleManager: Shutting down and abandoning module LocalizationService (879)
+[2023.10.18-15.13.48:742][  6]LogModuleManager: Shutting down and abandoning module HardwareTargeting (876)
+[2023.10.18-15.13.48:742][  6]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (874)
+[2023.10.18-15.13.48:742][  6]LogModuleManager: Shutting down and abandoning module UndoHistory (872)
+[2023.10.18-15.13.48:742][  6]LogModuleManager: Shutting down and abandoning module XmlParser (870)
+[2023.10.18-15.13.48:742][  6]LogModuleManager: Shutting down and abandoning module Blutility (868)
+[2023.10.18-15.13.48:742][  6]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (866)
+[2023.10.18-15.13.48:742][  6]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (865)
+[2023.10.18-15.13.48:742][  6]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (862)
+[2023.10.18-15.13.48:742][  6]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (861)
+[2023.10.18-15.13.48:742][  6]LogModuleManager: Shutting down and abandoning module SettingsEditor (858)
+[2023.10.18-15.13.48:742][  6]LogModuleManager: Shutting down and abandoning module ProjectLauncher (856)
+[2023.10.18-15.13.48:742][  6]LogModuleManager: Shutting down and abandoning module SessionFrontend (854)
+[2023.10.18-15.13.48:742][  6]LogModuleManager: Shutting down and abandoning module ProfilerClient (852)
+[2023.10.18-15.13.48:742][  6]LogModuleManager: Shutting down and abandoning module DeviceManager (850)
+[2023.10.18-15.13.48:742][  6]LogModuleManager: Shutting down and abandoning module AutomationController (848)
+[2023.10.18-15.13.48:742][  6]LogModuleManager: Shutting down and abandoning module AutomationWindow (846)
+[2023.10.18-15.13.48:742][  6]LogModuleManager: Shutting down and abandoning module Layers (844)
+[2023.10.18-15.13.48:742][  6]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (842)
+[2023.10.18-15.13.48:742][  6]LogModuleManager: Shutting down and abandoning module DetailCustomizations (840)
+[2023.10.18-15.13.48:742][  6]LogModuleManager: Shutting down and abandoning module PackagesDialog (838)
+[2023.10.18-15.13.48:742][  6]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (836)
+[2023.10.18-15.13.48:742][  6]LogModuleManager: Shutting down and abandoning module Persona (834)
+[2023.10.18-15.13.48:742][  6]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (833)
+[2023.10.18-15.13.48:742][  6]LogModuleManager: Shutting down and abandoning module Kismet (830)
+[2023.10.18-15.13.48:758][  6]LogModuleManager: Shutting down and abandoning module KismetWidgets (829)
+[2023.10.18-15.13.48:758][  6]LogModuleManager: Shutting down and abandoning module GraphEditor (826)
+[2023.10.18-15.13.48:758][  6]LogModuleManager: Shutting down and abandoning module StructViewer (824)
+[2023.10.18-15.13.48:758][  6]LogModuleManager: Shutting down and abandoning module ClassViewer (822)
+[2023.10.18-15.13.48:758][  6]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (820)
+[2023.10.18-15.13.48:758][  6]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (818)
+[2023.10.18-15.13.48:758][  6]LogModuleManager: Shutting down and abandoning module SourceControlWindows (816)
+[2023.10.18-15.13.48:758][  6]LogModuleManager: Shutting down and abandoning module OutputLog (814)
+[2023.10.18-15.13.48:758][  6]LogModuleManager: Shutting down and abandoning module Documentation (812)
+[2023.10.18-15.13.48:758][  6]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (810)
+[2023.10.18-15.13.48:758][  6]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (808)
+[2023.10.18-15.13.48:758][  6]LogModuleManager: Shutting down and abandoning module MovieScene (806)
+[2023.10.18-15.13.48:758][  6]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (804)
+[2023.10.18-15.13.48:758][  6]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (802)
+[2023.10.18-15.13.48:758][  6]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (800)
+[2023.10.18-15.13.48:758][  6]LogModuleManager: Shutting down and abandoning module AudioMixer (799)
+[2023.10.18-15.13.48:758][  6]LogModuleManager: Shutting down and abandoning module AudioMixerCore (798)
+[2023.10.18-15.13.48:758][  6]LogModuleManager: Shutting down and abandoning module LauncherPlatform (794)
+[2023.10.18-15.13.48:758][  6]LogModuleManager: Shutting down and abandoning module AnalyticsET (792)
+[2023.10.18-15.13.48:758][  6]LogModuleManager: Shutting down and abandoning module PortalServices (790)
+[2023.10.18-15.13.48:758][  6]LogModuleManager: Shutting down and abandoning module PortalRpc (788)
+[2023.10.18-15.13.48:758][  6]LogModuleManager: Shutting down and abandoning module MessagingRpc (786)
+[2023.10.18-15.13.48:758][  6]LogModuleManager: Shutting down and abandoning module AIModule (784)
+[2023.10.18-15.13.48:758][  6]LogModuleManager: Shutting down and abandoning module GameplayDebugger (783)
+[2023.10.18-15.13.48:758][  6]LogModuleManager: Shutting down and abandoning module AITestSuite (781)
+[2023.10.18-15.13.48:758][  6]LogModuleManager: Shutting down and abandoning module NavigationSystem (779)
+[2023.10.18-15.13.48:758][  6]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (776)
+[2023.10.18-15.13.48:758][  6]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (774)
+[2023.10.18-15.13.48:759][  6]LogModuleManager: Shutting down and abandoning module TypedElementFramework (772)
+[2023.10.18-15.13.48:759][  6]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (770)
+[2023.10.18-15.13.48:773][  6]LogModuleManager: Shutting down and abandoning module ProfilerService (768)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (766)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (764)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (762)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (760)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (758)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module TakesCore (756)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module MegascansPlugin (754)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module Bridge (752)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module LightMixer (750)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (748)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (746)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (744)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (742)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module CollectionManager (741)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module PortableObjectFileDataSource (738)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (736)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (734)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module Paper2DEditor (732)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module ResonanceAudio (730)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module SynthesisEditor (728)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (726)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (724)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (722)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module ModelingOperators (720)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (718)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module ModelingComponents (716)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module GeometryFramework (715)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (712)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module MeshModelingTools (710)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (708)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module InputDebugging (706)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module GooglePAD (704)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module DynamicMesh (702)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (700)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (698)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (696)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (694)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module AndroidPermission (692)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module AudioCapture (690)
+[2023.10.18-15.13.48:941][  6]LogModuleManager: Shutting down and abandoning module AudioCaptureWasapi (689)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module AssetTags (686)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (684)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (682)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module AppleImageUtils (680)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (678)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (676)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (674)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (670)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module MediaPlate (668)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module MediaCompositing (666)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module ImgMedia (664)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (662)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (660)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module UVEditorTools (658)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module UVEditor (656)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module AlembicImporter (654)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module AlembicLibrary (653)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module GeometryCache (652)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (651)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (646)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module CryptoKeys (644)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (642)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (640)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module PluginBrowser (638)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (636)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (634)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (632)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module CurveEditorTools (630)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (628)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module EditorDebugTools (626)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module ChangelistReview (624)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (622)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module ControlRigSpline (620)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (618)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (616)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module ACLPluginEditor (614)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (612)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module InterchangeTests (610)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module TemplateSequence (608)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (606)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module SequencerScripting (604)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module ToolPresetEditor (602)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module ToolPresetAsset (600)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module StructUtilsTestSuite (598)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module StructUtilsNodes (596)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module StructUtilsEditor (594)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module StructUtilsEngine (592)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (590)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (588)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (586)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (584)
+[2023.10.18-15.13.48:942][  6]LogOpenImageDenoise: OIDN shutting down
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module SkeletalMeshModifiers (582)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (580)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (578)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (576)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (574)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module MeshLODToolset (572)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module LocalizableMessageBlueprint (570)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module LocalizableMessage (568)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (566)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (564)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (563)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (561)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (558)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module DataflowNodes (556)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (554)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module DataflowEditor (552)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module FractureEditor (550)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (548)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (546)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module ChaosNiagara (544)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (542)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module BackChannel (540)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (538)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module AutomationUtils (536)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module UObjectPlugin (534)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module TakeSequencer (532)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module TakeMovieScene (530)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (528)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (526)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (524)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (522)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module PluginUtils (520)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module N10XSourceCodeAccess (518)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (516)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module GitSourceControl (514)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module VariantManager (512)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module DumpGPUServices (510)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (508)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (506)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (504)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (502)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module InterchangeExport (500)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module InterchangeMessages (498)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module GLTFCore (496)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (494)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (492)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module InterchangeEditor (490)
+[2023.10.18-15.13.48:942][  6]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (488)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (486)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (484)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (482)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module TraceUtilities (480)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (478)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (476)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module InputEditor (474)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (472)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module BlueprintGraph (471)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module VTest (468)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module Paper2D (466)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module Synthesis (464)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module SoundFields (462)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module SignificanceManager (460)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module RigVMDeveloper (458)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module RigVM (456)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (454)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (452)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module MsQuicRuntime (450)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module MetasoundEditor (448)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module AudioWidgets (447)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (446)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (442)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module MetasoundEngine (440)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module WaveTable (439)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (437)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (434)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (432)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (430)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (428)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (426)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (424)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module CableComponent (422)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (420)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (419)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (416)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module GameplayCameras (414)
+[2023.10.18-15.13.48:943][  6]LogModuleManager: Shutting down and abandoning module UdpMessaging (412)
+[2023.10.18-15.13.49:044][  6]LogModuleManager: Shutting down and abandoning module TcpMessaging (410)
+[2023.10.18-15.13.49:145][  6]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (408)
+[2023.10.18-15.13.49:145][  6]LogModuleManager: Shutting down and abandoning module Niagara (406)
+[2023.10.18-15.13.49:145][  6]LogModuleManager: Shutting down and abandoning module SignalProcessing (405)
+[2023.10.18-15.13.49:145][  6]LogModuleManager: Shutting down and abandoning module NiagaraEditor (403)
+[2023.10.18-15.13.49:145][  6]LogModuleManager: Shutting down and abandoning module NiagaraCore (400)
+[2023.10.18-15.13.49:145][  6]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (398)
+[2023.10.18-15.13.49:145][  6]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (396)
+[2023.10.18-15.13.49:145][  6]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (394)
+[2023.10.18-15.13.49:145][  6]LogModuleManager: Shutting down and abandoning module FacialAnimation (392)
+[2023.10.18-15.13.49:145][  6]LogModuleManager: Shutting down and abandoning module DataValidation (390)
+[2023.10.18-15.13.49:145][  6]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (388)
+[2023.10.18-15.13.49:145][  6]LogModuleManager: Shutting down and abandoning module ContentBrowser (387)
+[2023.10.18-15.13.49:145][  6]LogModuleManager: Shutting down and abandoning module ToolMenus (386)
+[2023.10.18-15.13.49:145][  6]LogModuleManager: Shutting down and abandoning module ContentBrowserData (384)
+[2023.10.18-15.13.49:145][  6]LogModuleManager: Shutting down and abandoning module TreeMap (381)
+[2023.10.18-15.13.49:145][  6]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (378)
+[2023.10.18-15.13.49:145][  6]LogModuleManager: Shutting down and abandoning module IKRig (376)
+[2023.10.18-15.13.49:145][  6]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (374)
+[2023.10.18-15.13.49:145][  6]LogModuleManager: Shutting down and abandoning module ControlRig (372)
+[2023.10.18-15.13.49:145][  6]LogModuleManager: Shutting down and abandoning module Constraints (371)
+[2023.10.18-15.13.49:145][  6]LogModuleManager: Shutting down and abandoning module AnimationData (368)
+[2023.10.18-15.13.49:145][  6]LogModuleManager: Shutting down and abandoning module ActorSequence (366)
+[2023.10.18-15.13.49:145][  6]LogModuleManager: Shutting down and abandoning module StructUtils (364)
+[2023.10.18-15.13.49:145][  6]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (362)
+[2023.10.18-15.13.49:145][  6]LogModuleManager: Shutting down and abandoning module PBIK (360)
+[2023.10.18-15.13.49:145][  6]LogModuleManager: Shutting down and abandoning module FullBodyIK (358)
+[2023.10.18-15.13.49:145][  6]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (356)
+[2023.10.18-15.13.49:145][  6]LogModuleManager: Shutting down and abandoning module TakeRecorder (355)
+[2023.10.18-15.13.49:145][  6]LogModuleManager: Shutting down and abandoning module LevelEditor (353)
+[2023.10.18-15.13.49:147][  6]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (352)
+[2023.10.18-15.13.49:147][  6]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (350)
+[2023.10.18-15.13.49:147][  6]LogModuleManager: Shutting down and abandoning module MainFrame (348)
+[2023.10.18-15.13.49:147][  6]LogModuleManager: Shutting down and abandoning module HotReload (347)
+[2023.10.18-15.13.49:147][  6]LogModuleManager: Shutting down and abandoning module ChaosCaching (342)
+[2023.10.18-15.13.49:147][  6]LogModuleManager: Shutting down and abandoning module LevelSequence (341)
+[2023.10.18-15.13.49:147][  6]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (338)
+[2023.10.18-15.13.49:147][  6]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (336)
+[2023.10.18-15.13.49:147][  6]LogModuleManager: Shutting down and abandoning module AnimationSharing (334)
+[2023.10.18-15.13.49:147][  6]LogModuleManager: Shutting down and abandoning module InterchangePipelines (332)
+[2023.10.18-15.13.49:147][  6]LogModuleManager: Shutting down and abandoning module InterchangeImport (330)
+[2023.10.18-15.13.49:147][  6]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (328)
+[2023.10.18-15.13.49:147][  6]LogModuleManager: Shutting down and abandoning module InterchangeNodes (326)
+[2023.10.18-15.13.49:147][  6]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (324)
+[2023.10.18-15.13.49:147][  6]LogModuleManager: Shutting down and abandoning module EnhancedInput (322)
+[2023.10.18-15.13.49:148][  6]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (320)
+[2023.10.18-15.13.49:148][  6]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (318)
+[2023.10.18-15.13.49:149][  6]LogModuleManager: Shutting down and abandoning module AndroidFileServer (316)
+[2023.10.18-15.13.49:149][  6]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (314)
+[2023.10.18-15.13.49:149][  6]LogModuleManager: Shutting down and abandoning module PacketHandler (312)
+[2023.10.18-15.13.49:149][  6]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (310)
+[2023.10.18-15.13.49:149][  6]LogModuleManager: Shutting down and abandoning module AnimGraph (308)
+[2023.10.18-15.13.49:149][  6]LogModuleManager: Shutting down and abandoning module TimeManagement (306)
+[2023.10.18-15.13.49:149][  6]LogModuleManager: Shutting down and abandoning module AnimationDataController (304)
+[2023.10.18-15.13.49:149][  6]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (302)
+[2023.10.18-15.13.49:149][  6]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (300)
+[2023.10.18-15.13.49:149][  6]LogModuleManager: Shutting down and abandoning module MediaAssets (298)
+[2023.10.18-15.13.49:149][  6]LogModuleManager: Shutting down and abandoning module Overlay (296)
+[2023.10.18-15.13.49:149][  6]LogModuleManager: Shutting down and abandoning module OverlayEditor (295)
+[2023.10.18-15.13.49:149][  6]LogModuleManager: Shutting down and abandoning module VREditor (292)
+[2023.10.18-15.13.49:149][  6]LogModuleManager: Shutting down and abandoning module StringTableEditor (290)
+[2023.10.18-15.13.49:149][  6]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (288)
+[2023.10.18-15.13.49:149][  6]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (286)
+[2023.10.18-15.13.49:149][  6]LogModuleManager: Shutting down and abandoning module FunctionalTesting (284)
+[2023.10.18-15.13.49:149][  6]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (282)
+[2023.10.18-15.13.49:149][  6]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (281)
+[2023.10.18-15.13.49:149][  6]LogModuleManager: Shutting down and abandoning module ScriptableEditorWidgets (278)
+[2023.10.18-15.13.49:149][  6]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2023.10.18-15.13.49:149][  6]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2023.10.18-15.13.49:149][  6]LogModuleManager: Shutting down and abandoning module EditorStyle (270)
+[2023.10.18-15.13.49:149][  6]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2023.10.18-15.13.49:149][  6]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2023.10.18-15.13.49:149][  6]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2023.10.18-15.13.49:150][  6]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (262)
+[2023.10.18-15.13.49:150][  6]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (260)
+[2023.10.18-15.13.49:150][  6]LogModuleManager: Shutting down and abandoning module UnrealEd (258)
+[2023.10.18-15.13.49:150][  6]LogModuleManager: Shutting down and abandoning module MRMesh (256)
+[2023.10.18-15.13.49:150][  6]LogModuleManager: Shutting down and abandoning module Messaging (254)
+[2023.10.18-15.13.49:151][  6]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (252)
+[2023.10.18-15.13.49:151][  6]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (250)
+[2023.10.18-15.13.49:151][  6]LogModuleManager: Shutting down and abandoning module LiveCoding (248)
+[2023.10.18-15.13.49:161][  6]LogModuleManager: Shutting down and abandoning module Networking (246)
+[2023.10.18-15.13.49:161][  6]LogModuleManager: Shutting down and abandoning module Core (244)
+[2023.10.18-15.13.49:161][  6]LogModuleManager: Shutting down and abandoning module AssetDefinition (242)
+[2023.10.18-15.13.49:161][  6]LogModuleManager: Shutting down and abandoning module MovieSceneTools (240)
+[2023.10.18-15.13.49:161][  6]LogModuleManager: Shutting down and abandoning module CurveEditor (239)
+[2023.10.18-15.13.49:161][  6]LogModuleManager: Shutting down and abandoning module Sequencer (237)
+[2023.10.18-15.13.49:161][  6]LogModuleManager: Shutting down and abandoning module KismetCompiler (234)
+[2023.10.18-15.13.49:161][  6]LogModuleManager: Shutting down and abandoning module MeshBuilder (232)
+[2023.10.18-15.13.49:161][  6]LogModuleManager: Shutting down and abandoning module NaniteBuilder (230)
+[2023.10.18-15.13.49:161][  6]LogModuleManager: Shutting down and abandoning module MeshUtilities (228)
+[2023.10.18-15.13.49:161][  6]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (227)
+[2023.10.18-15.13.49:161][  6]LogModuleManager: Shutting down and abandoning module StaticMeshDescription (226)
+[2023.10.18-15.13.49:161][  6]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (225)
+[2023.10.18-15.13.49:161][  6]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (222)
+[2023.10.18-15.13.49:161][  6]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (221)
+[2023.10.18-15.13.49:161][  6]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (219)
+[2023.10.18-15.13.49:161][  6]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (217)
+[2023.10.18-15.13.49:161][  6]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (215)
+[2023.10.18-15.13.49:161][  6]LogModuleManager: Shutting down and abandoning module MaterialBaking (211)
+[2023.10.18-15.13.49:161][  6]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (208)
+[2023.10.18-15.13.49:173][  6]LogModuleManager: Shutting down and abandoning module TelemetryUtils (205)
+[2023.10.18-15.13.49:173][  6]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (202)
+[2023.10.18-15.13.49:173][  6]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (200)
+[2023.10.18-15.13.49:173][  6]LogModuleManager: Shutting down and abandoning module DerivedDataCache (198)
+[2023.10.18-15.13.49:175][  6]LogModuleManager: Shutting down and abandoning module TargetPlatform (196)
+[2023.10.18-15.13.49:175][  6]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (195)
+[2023.10.18-15.13.49:175][  6]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2023.10.18-15.13.49:175][  6]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (191)
+[2023.10.18-15.13.49:175][  6]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (189)
+[2023.10.18-15.13.49:175][  6]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (187)
+[2023.10.18-15.13.49:175][  6]LogModuleManager: Shutting down and abandoning module AudioFormatBINK (185)
+[2023.10.18-15.13.49:175][  6]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (183)
+[2023.10.18-15.13.49:175][  6]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (181)
+[2023.10.18-15.13.49:175][  6]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (179)
+[2023.10.18-15.13.49:175][  6]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (177)
+[2023.10.18-15.13.49:175][  6]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (175)
+[2023.10.18-15.13.49:175][  6]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (173)
+[2023.10.18-15.13.49:175][  6]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (171)
+[2023.10.18-15.13.49:175][  6]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (169)
+[2023.10.18-15.13.49:175][  6]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (167)
+[2023.10.18-15.13.49:175][  6]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (165)
+[2023.10.18-15.13.49:176][  6]LogModuleManager: Shutting down and abandoning module TextureFormat (163)
+[2023.10.18-15.13.49:176][  6]LogModuleManager: Shutting down and abandoning module ImageWrapper (162)
+[2023.10.18-15.13.49:176][  6]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (160)
+[2023.10.18-15.13.49:176][  6]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (158)
+[2023.10.18-15.13.49:176][  6]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (156)
+[2023.10.18-15.13.49:176][  6]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (154)
+[2023.10.18-15.13.49:176][  6]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (152)
+[2023.10.18-15.13.49:176][  6]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (150)
+[2023.10.18-15.13.49:176][  6]LogModuleManager: Shutting down and abandoning module TurnkeySupport (147)
+[2023.10.18-15.13.49:176][  6]LogModuleManager: Shutting down and abandoning module InputCore (144)
+[2023.10.18-15.13.49:176][  6]LogModuleManager: Shutting down and abandoning module Settings (142)
+[2023.10.18-15.13.49:176][  6]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (140)
+[2023.10.18-15.13.49:176][  6]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (138)
+[2023.10.18-15.13.49:176][  6]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (137)
+[2023.10.18-15.13.49:176][  6]LogModuleManager: Shutting down and abandoning module Chaos (134)
+[2023.10.18-15.13.49:176][  6]LogModuleManager: Shutting down and abandoning module GeometryCore (133)
+[2023.10.18-15.13.49:176][  6]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (130)
+[2023.10.18-15.13.49:176][  6]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (129)
+[2023.10.18-15.13.49:176][  6]LogModuleManager: Shutting down and abandoning module AVEncoder (128)
+[2023.10.18-15.13.49:176][  6]LogModuleManager: Shutting down and abandoning module D3D12RHI (124)
+[2023.10.18-15.13.49:176][  6]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (122)
+[2023.10.18-15.13.49:176][  6]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (120)
+[2023.10.18-15.13.49:176][  6]LogModuleManager: Shutting down and abandoning module ChunkDownloader (118)
+[2023.10.18-15.13.49:176][  6]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (116)
+[2023.10.18-15.13.49:176][  6]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (114)
+[2023.10.18-15.13.49:176][  6]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (112)
+[2023.10.18-15.13.49:176][  6]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (110)
+[2023.10.18-15.13.49:176][  6]LogModuleManager: Shutting down and abandoning module NiagaraShader (108)
+[2023.10.18-15.13.49:176][  6]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (106)
+[2023.10.18-15.13.49:177][  6]LogModuleManager: Shutting down and abandoning module XMPP (101)
+[2023.10.18-15.13.49:177][  6]LogModuleManager: Shutting down and abandoning module WebSockets (100)
+[2023.10.18-15.13.49:195][  6]LogModuleManager: Shutting down and abandoning module HTTP (97)
+[2023.10.18-15.13.49:195][  6]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2023.10.18-15.13.49:195][  6]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B49F2CF70-49D5-68E2-A998-9B942F976F1A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.1-28051148%2B%2B%2BUE5%2BRelease-5.3&UserID=50d03ccb4639f46deeb5de97a2fffa17%7Cb266613d893747e18c40bb8d4c306297%7C1e7b6072-7359-4692-b804-147bf4abe494&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.10.18-15.13.49:227][  6]LogModuleManager: Shutting down and abandoning module SSL (96)
+[2023.10.18-15.13.49:228][  6]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (92)
+[2023.10.18-15.13.49:228][  6]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (90)
+[2023.10.18-15.13.49:228][  6]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (88)
+[2023.10.18-15.13.49:228][  6]LogModuleManager: Shutting down and abandoning module WmfMedia (86)
+[2023.10.18-15.13.49:231][  6]LogModuleManager: Shutting down and abandoning module Media (85)
+[2023.10.18-15.13.49:233][  6]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (82)
+[2023.10.18-15.13.49:233][  6]LogModuleManager: Shutting down and abandoning module ACLPlugin (80)
+[2023.10.18-15.13.49:233][  6]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (78)
+[2023.10.18-15.13.49:233][  6]RenderDocPlugin: plugin has been unloaded.
+[2023.10.18-15.13.49:233][  6]LogModuleManager: Shutting down and abandoning module ChaosCloth (76)
+[2023.10.18-15.13.49:233][  6]LogModuleManager: Shutting down and abandoning module PixWinPlugin (74)
+[2023.10.18-15.13.49:233][  6]LogModuleManager: Shutting down and abandoning module VariantManagerContent (72)
+[2023.10.18-15.13.49:233][  6]LogModuleManager: Shutting down and abandoning module GLTFExporter (70)
+[2023.10.18-15.13.49:233][  6]LogModuleManager: Shutting down and abandoning module DatasmithContent (68)
+[2023.10.18-15.13.49:233][  6]LogModuleManager: Shutting down and abandoning module AISupportModule (66)
+[2023.10.18-15.13.49:233][  6]LogModuleManager: Shutting down and abandoning module DesktopPlatform (64)
+[2023.10.18-15.13.49:233][  6]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (62)
+[2023.10.18-15.13.49:233][  6]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (60)
+[2023.10.18-15.13.49:233][  6]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (58)
+[2023.10.18-15.13.49:233][  6]LogModuleManager: Shutting down and abandoning module PlatformCrypto (56)
+[2023.10.18-15.13.49:233][  6]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (54)
+[2023.10.18-15.13.49:233][  6]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (52)
+[2023.10.18-15.13.49:233][  6]LogModuleManager: Shutting down and abandoning module SourceControl (51)
+[2023.10.18-15.13.49:233][  6]LogModuleManager: Shutting down and abandoning module XGEController (48)
+[2023.10.18-15.13.49:233][  6]LogXGEController: Cleaning working directory: C:/Users/82105/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.10.18-15.13.49:234][  6]LogModuleManager: Shutting down and abandoning module FastBuildController (46)
+[2023.10.18-15.13.49:234][  6]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+[2023.10.18-15.13.49:234][  6]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2023.10.18-15.13.49:234][  6]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2023.10.18-15.13.49:234][  6]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2023.10.18-15.13.49:234][  6]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2023.10.18-15.13.49:234][  6]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2023.10.18-15.13.49:234][  6]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2023.10.18-15.13.49:234][  6]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2023.10.18-15.13.49:234][  6]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2023.10.18-15.13.49:234][  6]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2023.10.18-15.13.49:234][  6]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2023.10.18-15.13.49:236][  6]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2023.10.18-15.13.49:236][  6]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2023.10.18-15.13.49:236][  6]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2023.10.18-15.13.49:236][  6]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2023.10.18-15.13.49:236][  6]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2023.10.18-15.13.49:236][  6]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2023.10.18-15.13.49:236][  6]LogPakFile: Destroying PakPlatformFile
+[2023.10.18-15.13.49:236][  6]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2023.10.18-15.13.49:236][  6]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2023.10.18-15.13.49:236][  6]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.10.18-15.13.49:236][  6]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2023.10.18-15.13.49:236][  6]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.10.18-15.13.49:577][  6]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.10.18-15.13.49:599][  6]LogExit: Exiting.
+[2023.10.18-15.13.49:651][  6]Log file closed, 10/19/23 00:13:49
