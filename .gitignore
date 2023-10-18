@@ -1,0 +1,5 @@
+VTest/Saved/*
+VTest/.vs/*
+VTest/Content/Megascans/
+VTest/DerivedDataCache/*
+VTest/Intermediate/*
