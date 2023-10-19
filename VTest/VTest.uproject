@@ -3,6 +3,16 @@
 	"EngineAssociation": "5.3",
 	"Category": "Blueprints",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "VTest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "EnhancedInput",
