@@ -26,7 +26,7 @@
 
 <br/><br/>
 
-+ ### Genre: Strategic FPS
++ ### Genre: Strategic TPS
 
 + ### Features:
 
@@ -39,22 +39,10 @@
   + **Expand your territory**: <br/>
     >Win battles to expand your company's territory. This allows you to earn bigger rewards. Be warned, though: you can lose territory to your enemies.
 
-<br/><br/><br/>
-
-## Member
-
-<br/>
+<br/><br/>
 
 
-  >- *Yoosung Hong*
-  >- *Jihoon Jang*
-  >- *Hyeondo Kim*
-  >- *Dongwoo Kim*
-  >- *Hyeonghwan Ju*
-  >- *Taekyung Yun*
-  >- *Jinho Kim*
-  >- *Taejung Min*
-  >- *MurHong Kim*
+
 
 
 #
